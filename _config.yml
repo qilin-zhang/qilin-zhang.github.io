@@ -9,14 +9,14 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiyu Luo"
+title                    : "Qilin Zhang"
 title_separator          : "-"
-name                     : "Shiyu Luo"
-description              : "Shiyu Luo"
-url                      : "https://shiyuLuo2019.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Qilin Zhang"
+description              : "Qilin Zhang"
+url                      : "https://qilin-zhang.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "shiyuLuo2019/shiyuLuo2019.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "qilin-zhang/qilin-zhang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shiyu Luo"
-  avatar           : "photo.jpeg"
-  bio              : "Graduate student in Computer Science at Northwestern University"
+  name             : "Qilin Zhang"
+  avatar           : "qz-photo.jpg"
+  bio              : "Senior Research Engineer, Highly Automated Driving (HAD) Unit at HERE Technologies"
   location         : "Chicago, IL"
-  email            : "shiyuluo2019@u.northwestern.edu"
+  email            : "samqzhang@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/shiyuLuo2019"
+  github           : "https://github.com/qilin-zhang"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "shiyu-luo-025340122" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "qzhang5" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
