@@ -13,4 +13,5 @@ Prior to attending Stevens, I received my Bachelor of Engineering from Universit
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Machine Learning, Deep Learning and Computer Vision.
 
 [Download full resume](http://personal.stevens.edu/~qzhang5/res/Qilin-Zhang-CV.pdf)
+
 [Download one-page resume](http://personal.stevens.edu/~qzhang5/res/Qilin-Zhang-Resume.pdf)
