@@ -4,6 +4,13 @@ subtitle: Shiyu Luo
 permalink: /cv/
 
 ---
-I am currently a graduate student in Computer Science at Northwestern University in Illinois. In 2016, together with Qian Sun, Yu Dong and Yuwei Tu, I co-founded a startup Ms. Data Education Consulting, which is based on WeChat Admin Platform and dedicates itself to providing quality services to Chinese students who interested in pursuing graduate studies in business analytics overseas. Before, I studied Clinical Medicine at Southern Medical University in Guangzhou, China and worked as a medical intern at Guangdong General Hospital and Guangdong NO.2 Provincial Hospital in Guangzhou, China, for 1 year and obtained a Bachelor of Clinical Medicine in 2016.
+I am currently a Senior Research Engineer in the Highly Automated Driving (HAD) team at [HERE Technologies](https://here.com/) Automotive Division in Chicago, IL. 
 
-[Download full resume](../cv_version_3.1+QR.pdf)
+Previously, I graduated with a Ph.D. in Computer Science from Stevens Institute of Technology, Hoboken, NJ in the summer of 2016. During my Ph.D. studies, I worked in areas such as Machine Learning (including Deep Learning, CNNs), multimedia signal processing and Computer Vision. 
+
+Prior to attending Stevens, I received my Bachelor of Engineering from University of Science and Technology of China and my Master of Science from University of Florida. 
+
+As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Machine Learning, Deep Learning and Computer Vision.
+
+[Download full resume](http://personal.stevens.edu/~qzhang5/res/Qilin-Zhang-CV.pdf)
+[Download one-page resume](http://personal.stevens.edu/~qzhang5/res/Qilin-Zhang-Resume.pdf)
