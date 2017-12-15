@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Shiyu Luo
+subtitle: Qilin Zhang
 permalink: /publications/
 ---
 
