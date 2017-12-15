@@ -3,5 +3,10 @@ title: Qilin Zhang
 layout: single
 author_profile: true
 ---
+I am currently a Senior Research Engineer in the Highly Automated Driving (HAD) team at [HERE Technologies](https://here.com/) Automotive Division in Chicago, IL. 
 
-I am currently a Senior Research Engineer in the Highly Automated Driving (HAD) team at [HERE Technologies](https://here.com/) Automotive Division in Chicago, IL, working on machine Learning (Deep Learning with Convolutional Neural Networks) in Computer Vision to support HD map and autonomous driving. Before, I worked as a Ph.D. student and research assistant at [Stevens Institute of Technology](https://www.stevens.edu/), as a research and development intern at Computer Vision & Image Analytics Lab of [GE Global Research](http://www.geglobalresearch.com/), and as a graduate student and a research assistant at [University of Florida](http://www.ufl.edu/).
+Previously, I graduated with a Ph.D. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), Hoboken, NJ in the summer of 2016. During my Ph.D. studies, I worked in areas such as Machine Learning (including Deep Learning, CNNs), multimedia signal processing and Computer Vision. 
+
+Prior to attending Stevens, I received my Bachelor of Engineering from [University of Science and Technology of China](http://en.ustc.edu.cn/) and my Master of Science from [University of Florida](http://www.ufl.edu/). 
+
+As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Machine Learning, Deep Learning and Computer Vision. 
