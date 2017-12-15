@@ -1,4 +1,5 @@
 ---
+title: Qilin Zhang
 layout: single
 author_profile: true
 ---
