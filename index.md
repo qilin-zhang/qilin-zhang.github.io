@@ -10,3 +10,5 @@ Previously, I graduated with a Ph.D. in Computer Science from [Stevens Institute
 Prior to attending Stevens, I received my Bachelor of Engineering from [University of Science and Technology of China](http://en.ustc.edu.cn/) and my Master of Science from [University of Florida](http://www.ufl.edu/). 
 
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Machine Learning, Deep Learning and Computer Vision. 
+
+![USTC](assets/images/USTC.png) ![UFlorida](assets/images/florida.png) ![Stevens-Institute-of-Technology](assets/images/stevens.png) ![HERE-Technologies](assets/images/here.png)
