@@ -1,11 +1,15 @@
 ---
 title: Contact
-subtitle: Shiyu Luo
+subtitle: Qilin Zhang
 permalink: /contact/
 ---
 
-#### Affiliation
-outer space
+**Dr. Qilin Zhang**
 
-#### email
-123@no-reply.com
+Highly Automated Driving (HAD) team, HERE Technologies Automotive Division
+
+425 W Randolph St, 
+
+Chicago, IL 60606
+
+Email: [samqzhang@gmail.com](mailto:samqzhang@gmail.com)
