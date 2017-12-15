@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Qilin Zhang"
   avatar           : "qz-photo.jpg"
-  bio              : "Senior Research Engineer, Highly Automated Driving (HAD) Unit at HERE Technologies"
+  bio              : "Senior Research Engineer at HERE Technologies"
   location         : "Chicago, IL"
   email            : "samqzhang@gmail.com"
   uri              :
@@ -265,7 +265,7 @@ defaults:
       toc: false
       toc_label: "CONTENT"
       header:
-        image: /assets/images/purple.jpg
+        image: /assets/images/purple-super-narrow.jpg
         image_description: "A purple header image"
       author_profile: true
       
