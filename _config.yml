@@ -253,7 +253,7 @@ defaults:
       share: true
       related: true
       header:
-        image: /assets/images/bg-blue-d.png
+        image: /assets/images/blue-narrow.png
         image_description: "A dark blue header image"
       author_profile: true
   # _pages
@@ -265,7 +265,7 @@ defaults:
       toc: false
       toc_label: "CONTENT"
       header:
-        image: /assets/images/bg-blue-d.png
+        image: /assets/images/blue-narrow.png
         image_description: "A dark blue header image"
       author_profile: true
       
