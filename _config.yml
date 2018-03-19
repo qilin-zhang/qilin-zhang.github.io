@@ -9,8 +9,8 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qilin Zhang"
-title_separator          : "-"
+title                    : "Ph.D."
+title_separator          : " "
 name                     : "Qilin Zhang"
 description              : "Qilin Zhang"
 url                      : "https://qilin-zhang.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
