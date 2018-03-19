@@ -42,12 +42,12 @@ Zhang, Qilin, Gang Hua, Wei Liu, Zicheng Liu, and Zhengyou Zhang. "Auxiliary Tra
 ##### Can Visual Recognition Benefit from Auxiliary Information in Training?
 Zhang, Qilin, Gang Hua, Wei Liu, Zicheng Liu, and Zhengyou Zhang. "Can visual recognition benefit from auxiliary information in training?." In Asian Conference on Computer Vision, pp. 65-80. Springer, Cham, 2014. (Oral presentation, oral acceptance rate 4%)
 
-[Link](http://doi.org/10.1007/978-3-319-16865-4_5), [arXiv](https://arxiv.org/abs/1802.03070), [PDF](pdfs/zhang2015can.pdf), [BibTeX](bibtexs/zhang2015can.bib)
+[Link](http://doi.org/10.1007/978-3-319-16865-4_5), [PDF](pdfs/zhang2015can.pdf), [BibTeX](bibtexs/zhang2015can.bib)
 
 ##### Iterative Sparse Asymptotic Minimum Variance Based Approaches for Array Processing
 Abeida, Habti, Qilin Zhang, Jian Li, and Nadjim Merabtine. "Iterative sparse asymptotic minimum variance based approaches for array processing." IEEE Transactions on Signal Processing 61, no. 4 (2013): 933-944.
 
-[DOI](http://dx.doi.org/10.1109/TSP.2012.2231676), [PDF](SAMVpaper.pdf), [BibTeX](bibtexs/abeida2013iterative.bib)
+[DOI](http://dx.doi.org/10.1109/TSP.2012.2231676), [arXiv](https://arxiv.org/abs/1802.03070), [PDF](SAMVpaper.pdf), [BibTeX](bibtexs/abeida2013iterative.bib)
 
 ##### Fast implementation of sparse iterative covariance-based estimation for source localization
 Zhang, Qilin, Habti Abeida, Ming Xue, William Rowe, and Jian Li. "Fast implementation of sparse iterative covariance-based estimation for source localization." The Journal of the Acoustical Society of America 131, no. 2 (2012): 1249-1259.
