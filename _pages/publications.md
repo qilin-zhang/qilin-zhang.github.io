@@ -9,6 +9,11 @@ permalink: /publications/
 &nbsp;[[Publons Reviewer Profile]](https://publons.com/a/1348230)
 &nbsp;[[LinkeIn]](https://www.linkedin.com/in/qzhang5)
 
+##### Video-based Sign Language Recognition without Temporal Segmentation
+Huang, Jie, Wengang Zhou, Qilin Zhang, Houqiang Li, and Weiping Li "Video-based Sign Language Recognition without Temporal Segmentation." In Proceedings of 32nd AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018, New Orleans, Louisiana, USA. 
+
+[PDF](https://arxiv.org/pdf/1801.10111.pdf)
+
 ##### A Hyperspectral Image Classification Framework with Spatial Pixel Pair Features
 Ran, Lingyan, Yanning Zhang, Wei Wei, and Qilin Zhang. "A Hyperspectral Image Classification Framework with Spatial Pixel Pair Features." Sensors 17, no. 10 (2017): 2421.
 
