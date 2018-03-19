@@ -88,7 +88,7 @@ author:
   bio              : "Senior Research Engineer at HERE Technologies"
   location         : "Chicago, Illinois, USA"
   email            : "samqzhang@gmail.com"
-  uri              : # "https://publons.com/a/1348230"
+  uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   foursquare       :
   github           : "qilin-zhang"
   gitlab           :
-  google_plus      : #"https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"
+  google_plus      :
   keybase          :
   instagram        :
   lastfm           :
@@ -113,7 +113,9 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"
+  publons          : "https://publons.com/a/1348230"
+  orcid            : "https://orcid.org/0000-0002-7917-9749"
 
 # Reading Files
 include:
