@@ -10,7 +10,7 @@ permalink: /publications/
 &nbsp;[[LinkeIn]](https://www.linkedin.com/in/qzhang5)
 
 ##### Video-based Sign Language Recognition without Temporal Segmentation
-Huang, Jie, Wengang Zhou, Qilin Zhang, Houqiang Li, and Weiping Li "Video-based Sign Language Recognition without Temporal Segmentation." In Proceedings of 32nd AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018, New Orleans, Louisiana, USA. 
+Huang, Jie, Wengang Zhou, Qilin Zhang, Houqiang Li, and Weiping Li "Video-based Sign Language Recognition without Temporal Segmentation." In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018, New Orleans, Louisiana, USA. 
 
 [PDF](https://arxiv.org/pdf/1801.10111.pdf)
 
@@ -25,7 +25,7 @@ Ran, Lingyan, Yanning Zhang, Qilin Zhang, and Tao Yang. "Convolutional Neural Ne
 [Link](http://www.mdpi.com/1424-8220/17/6/1341/htm), [PDF](http://www.mdpi.com/1424-8220/17/6/1341/pdf), [BibTeX](bibtexs/ran2017convolutional)
 
 ##### Multi-View Visual Recognition of Imperfect Testing Data
-Zhang, Qilin, and Gang Hua. "Multi-view visual recognition of imperfect testing data." In Proceedings of the 23rd ACM international conference on Multimedia, pp. 561-570. ACM, 2015.
+Zhang, Qilin, and Gang Hua. "Multi-view visual recognition of imperfect testing data." In Proceedings of the 23rd ACM international conference on Multimedia, pp. 561-570. ACM, 2015. (Oral presentation)
 
 [Link](http://dl.acm.org/citation.cfm?id=2806224), [PDF](pdfs/zhang2015multi.pdf), [BibTeX](bibtexs/zhang2015multi.bib)
 
