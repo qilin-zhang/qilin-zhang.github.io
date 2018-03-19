@@ -4,7 +4,8 @@ subtitle: Qilin Zhang
 permalink: /publications/
 ---
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate) [Publons Reviewer Profile](https://publons.com/a/1348230)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate)
+[Publons Reviewer Profile](https://publons.com/a/1348230)
 
 ##### A Hyperspectral Image Classification Framework with Spatial Pixel Pair Features
 Ran, Lingyan, Yanning Zhang, Wei Wei, and Qilin Zhang. "A Hyperspectral Image Classification Framework with Spatial Pixel Pair Features." Sensors 17, no. 10 (2017): 2421.
