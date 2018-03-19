@@ -47,7 +47,7 @@ Zhang, Qilin, Gang Hua, Wei Liu, Zicheng Liu, and Zhengyou Zhang. "Can visual re
 ##### Iterative Sparse Asymptotic Minimum Variance Based Approaches for Array Processing
 Abeida, Habti, Qilin Zhang, Jian Li, and Nadjim Merabtine. "Iterative sparse asymptotic minimum variance based approaches for array processing." IEEE Transactions on Signal Processing 61, no. 4 (2013): 933-944.
 
-[DOI](http://dx.doi.org/10.1109/TSP.2012.2231676), [arXiv](https://arxiv.org/abs/1802.03070), [PDF](SAMVpaper.pdf), [BibTeX](bibtexs/abeida2013iterative.bib)
+[DOI](http://dx.doi.org/10.1109/TSP.2012.2231676), [arXiv](https://arxiv.org/abs/1802.03070), [PDF](pdfs/SAMVpaper.pdf), [BibTeX](bibtexs/abeida2013iterative.bib)
 
 ##### Fast implementation of sparse iterative covariance-based estimation for source localization
 Zhang, Qilin, Habti Abeida, Ming Xue, William Rowe, and Jian Li. "Fast implementation of sparse iterative covariance-based estimation for source localization." The Journal of the Acoustical Society of America 131, no. 2 (2012): 1249-1259.
