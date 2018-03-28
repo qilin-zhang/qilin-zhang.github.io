@@ -27,7 +27,7 @@ Ran, Lingyan, Yanning Zhang, Wei Wei, and Qilin Zhang. "A Hyperspectral Image Cl
 ##### Convolutional Neural Network-Based Robot Navigation Using Uncalibrated Spherical Images
 Ran, Lingyan, Yanning Zhang, Qilin Zhang, and Tao Yang. "Convolutional Neural Network-Based Robot Navigation Using Uncalibrated Spherical Images." Sensors 17, no. 6 (2017): 1341.
 
-[Link](http://www.mdpi.com/1424-8220/17/6/1341/htm), [PDF](http://www.mdpi.com/1424-8220/17/6/1341/pdf), [BibTeX](bibtexs/ran2017convolutional)
+[Link](http://www.mdpi.com/1424-8220/17/6/1341/htm), [PDF](pdfs/sensors-17-01341.pdf), [BibTeX](bibtexs/ran2017convolutional)
 
 ##### Multi-View Visual Recognition of Imperfect Testing Data
 Zhang, Qilin, and Gang Hua. "Multi-view visual recognition of imperfect testing data." In Proceedings of the 23rd ACM international conference on Multimedia, pp. 561-570. ACM, 2015. (Oral presentation)
