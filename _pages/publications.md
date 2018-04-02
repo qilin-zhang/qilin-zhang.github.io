@@ -9,10 +9,9 @@ permalink: /publications/
 &nbsp;[[Publons Reviewer Profile]](https://publons.com/a/1348230)
 &nbsp;[[LinkeIn]](https://www.linkedin.com/in/qzhang5)
 
-##### Attention-based Temporal Weighted Convolutional Neural Network for Action Recognition
-Zang, Jinliang, Le Wang, Ziyi Liu, Qilin Zhang, Zhenxing Niu, Gang Hua, and Nanning Zheng. "Attention-based Temporal Weighted Convolutional Neural Network for Action Recognition." In Proceedings of the 14th International Conference on Artificial Intelligence Applications and Innovations (AIAI 2018), May 25-27, 2018, Rhodes, Greece.
 
-[PDF](pdfs/Attention-based-Temporal-Weighted-Convolutional-Neural-Network-for-Action-Recognition.pdf)
+
+
 
 ##### Video-based Sign Language Recognition without Temporal Segmentation
 Huang, Jie, Wengang Zhou, Qilin Zhang, Houqiang Li, and Weiping Li "Video-based Sign Language Recognition without Temporal Segmentation." In Proceedings of the 32nd AAAI Conference on Artificial Intelligence (AAAI-18), Feb. 2-7, 2018, New Orleans, Louisiana, USA. 
