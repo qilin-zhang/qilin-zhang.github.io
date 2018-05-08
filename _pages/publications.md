@@ -10,7 +10,11 @@ permalink: /publications/
 &nbsp;[[LinkeIn]](https://www.linkedin.com/in/qzhang5)
 
 
+##### A Graded Offline Evaluation Framework for Intelligent Vehicle's Cognitive Ability
+Zhang, Chi, Yuehu Liu, Qilin Zhang, and Le Wang, "A Graded Offline Evaluation Framework for Intelligent Vehicle's Cognitive Ability", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018.
 
+##### Attention-based Temporal Weighted Convolutional Neural Network for Action Recognition
+Zang, Jinliang, Le Wang, Ziyi Liu, Qilin Zhang, Zhenxing Niu, Gang Hua, and Nanning Zheng. "Attention-based Temporal Weighted Convolutional Neural Network for Action Recognition." In Proceedings of the 14th International Conference on Artificial Intelligence Applications and Innovations (AIAI'2018), May 25-27, 2018, Rhodes, Greece.
 
 
 ##### Video-based Sign Language Recognition without Temporal Segmentation
