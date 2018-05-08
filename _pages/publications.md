@@ -10,6 +10,15 @@ permalink: /publications/
 &nbsp;[[LinkeIn]](https://www.linkedin.com/in/qzhang5)
 
 
+
+##### Video Object Co-segmentation from Noisy Videos by a Multi-level Hypergraph Model
+Lv, Xin, Le Wang, Qilin Zhang, Zhenzing Niu, Nanning Zheng, and Gang Hua. "Video Object Co-segmentation from Noisy Videos by a Multi-level Hypergraph Model", in Proc. IEEE International Conference on Image Processing (ICIP'2018), Athens, Greece, October, 2018.
+
+
+##### Joint Spatio-temporal Action Localization in Untrimmed Videos with Per-frame Segmentation
+Duan, Xuhuan, Le Wang, Changbo Zhai, Qilin Zhang, Zhenzing Niu, Nanning Zheng, and Gang Hua. "Joint Spatio-temporal Action Localization in Untrimmed Videos with Per-frame Segmentation", in Proc. IEEE International Conference on Image Processing (ICIP'2018), Athens, Greece, October, 2018.
+
+
 ##### A Graded Offline Evaluation Framework for Intelligent Vehicle's Cognitive Ability
 Zhang, Chi, Yuehu Liu, Qilin Zhang, and Le Wang, "A Graded Offline Evaluation Framework for Intelligent Vehicle's Cognitive Ability", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018.
 
