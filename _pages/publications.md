@@ -16,6 +16,12 @@ Lv, Xin, Le Wang, Qilin Zhang, Zhenzing Niu, Nanning Zheng, and Gang Hua. "Video
 ##### Joint Spatio-temporal Action Localization in Untrimmed Videos with Per-frame Segmentation
 Duan, Xuhuan, Le Wang, Changbo Zhai, Qilin Zhang, Zhenzing Niu, Nanning Zheng, and Gang Hua. "Joint Spatio-temporal Action Localization in Untrimmed Videos with Per-frame Segmentation", in Proc. IEEE International Conference on Image Processing (ICIP'2018), Athens, Greece, October, 2018.
 
+##### Weighted Multi-Region Convolutional Neural Network for Action Recognition with Low-Latency Online Prediction
+Wang, Yunfeng, Wengang Zhou, Qilin Zhang, Xiaotian Zhu, and Houqiang Li. "Weighted Multi-Region Convolutional Neural Network for Action Recognition with Low-Latency Online Prediction", in Proc. IEEE International Conference on Multimedia and Expo (ICME), Workshops, San Diego, USA, July 2018. 
+
+##### Enhanced Action Recognition with Visual Attribute-augmented 3D Convolutional Neural Network
+Wang, Yunfeng, Wengang Zhou, Qilin Zhang, and Houqiang Li. "Enhanced Action Recognition with Visual Attribute-augmented 3D Convolutional Neural Network", in Proc. IEEE International Conference on Multimedia and Expo (ICME), Industry Program, San Diego, USA, July 2018. 
+
 ##### Traffic Sensory Data Classification by Quantifying Scenario Complexity
 Wang, Jiajie, Chi Zhang, Yuehu Liu, Qilin Zhang. "Traffic Sensory Data Classification by Quantifying Scenario Complexity", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. 
 
