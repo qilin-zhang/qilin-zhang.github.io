@@ -21,7 +21,7 @@ Wang, Yunfeng, Wengang Zhou, Qilin Zhang, Xiaotian Zhu, and Houqiang Li. "Weight
 Wang, Yunfeng, Wengang Zhou, Qilin Zhang, and Houqiang Li. "Enhanced Action Recognition with Visual Attribute-augmented 3D Convolutional Neural Network", in Proc. IEEE International Conference on Multimedia and Expo (ICME), Industry Program, San Diego, USA, July 2018. [[PDF]](pdfs/Enhanced_Action_Recognition_with_Visual_Attribute-augmented_3D_Convolutional_Neural_Network.pdf) 
 
 ##### Traffic Sensory Data Classification by Quantifying Scenario Complexity
-Wang, Jiajie, Chi Zhang, Yuehu Liu, Qilin Zhang. "Traffic Sensory Data Classification by Quantifying Scenario Complexity", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. 
+Wang, Jiajie, Chi Zhang, Yuehu Liu, Qilin Zhang. "Traffic Sensory Data Classification by Quantifying Scenario Complexity", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. [[PDF]](pdfs/Traffic_Sensory_Data_Classification_by_Quantifying_Scenario_Complexity.pdf)
 
 ##### Multi-model Traffic Scene Simulation with Road Image Sequences and GIS Information
 Cui, Zhichao, Yuehu Liu, Fuji Ren, and Qilin Zhang. "Multi-model Traffic Scene Simulation with Road Image Sequences and GIS Information", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. 
