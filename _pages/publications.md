@@ -24,7 +24,7 @@ Wang, Yunfeng, Wengang Zhou, Qilin Zhang, and Houqiang Li. "Enhanced Action Reco
 Wang, Jiajie, Chi Zhang, Yuehu Liu, Qilin Zhang. "Traffic Sensory Data Classification by Quantifying Scenario Complexity", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. [[PDF]](pdfs/Traffic_Sensory_Data_Classification_by_Quantifying_Scenario_Complexity.pdf)
 
 ##### Multi-model Traffic Scene Simulation with Road Image Sequences and GIS Information
-Cui, Zhichao, Yuehu Liu, Fuji Ren, and Qilin Zhang. "Multi-model Traffic Scene Simulation with Road Image Sequences and GIS Information", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. 
+Cui, Zhichao, Yuehu Liu, Fuji Ren, and Qilin Zhang. "Multi-model Traffic Scene Simulation with Road Image Sequences and GIS Information", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. [[PDF]](pdfs/Multi-model_Traffic_Scene_Simulation_with_Road_Image_Sequences_and_GIS_Information.pdf)
 
 ##### A Graded Offline Evaluation Framework for Intelligent Vehicle's Cognitive Ability
 Zhang, Chi, Yuehu Liu, Qilin Zhang, and Le Wang, "A Graded Offline Evaluation Framework for Intelligent Vehicle's Cognitive Ability", in Proc. IEEE Intelligent Vehicles Symposium (IV'2018), Changshu, China, June, 2018. [[PDF]](pdfs/A_Graded_Offline_Evaluation_Framework_for_Intelligent_Vehicle’s_Cognitive_Ability.pdf)
