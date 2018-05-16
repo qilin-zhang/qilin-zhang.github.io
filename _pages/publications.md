@@ -61,4 +61,4 @@ Zhang, Qilin, Habti Abeida, Ming Xue, William Rowe, and Jian Li. "Fast implement
 Zhang, Qilin, Habti Abeida, Ming Xue, William Rowe, and Jian Li. "Fast implementation of sparse iterative covariance-based estimation for array processing." In Signals, Systems and Computers (ASILOMAR), 2011 Conference Record of the Forty Fifth Asilomar Conference on, pp. 2031-2035. IEEE, 2011. [[DOI]](http://dx.doi.org/10.1109/ACSSC.2011.6190383), [[BibTeX]](bibtexs/zhang2011fast.bib)
 
 ##### Supplemental Material for “Can Visual Recognition Benefit from Auxiliary Information in Training?”
-Zhang, Qilin, Gang Hua, Wei Liu, Zicheng Liu, and Zhengyou Zhang. "Supplemental Material for “Can Visual Recognition Benefit from Auxiliary Information in Training?”." [[PDF]](http://www.ee.columbia.edu/~wliu/ACCV14_supmaterial.pdf), [[BibTeX]](bibtexs/zhangsupplemental.bib)
+Zhang, Qilin, Gang Hua, Wei Liu, Zicheng Liu, and Zhengyou Zhang. "Supplemental Material for “Can Visual Recognition Benefit from Auxiliary Information in Training?”." [[PDF]](http://www.ee.columbia.edu/~wliu/ACCV14_supmaterial.pdf), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhangsupplemental.txt?raw=true)
