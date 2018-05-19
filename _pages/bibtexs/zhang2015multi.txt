@@ -1,7 +1,7 @@
 @inproceedings{zhang2015multi,
   title={Multi-View Visual Recognition of Imperfect Testing Data},
   author={Zhang, Qilin and Hua, Gang},
-  booktitle={Proceedings of the 23rd Annual ACM Conference on Multimedia Conference},
+  booktitle={Proceedings of the 23rd Annual ACM Conference on Multimedia Conference, Brisbane, Australia},
   pages={561--570},
   year={2015},
   organization={ACM}
