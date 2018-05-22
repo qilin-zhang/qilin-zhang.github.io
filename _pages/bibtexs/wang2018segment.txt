@@ -1,0 +1,11 @@
+@article{wang2018segment,
+  title={Segment-Tube: Spatio-Temporal Action Localization in Untrimmed Videos with Per-Frame Segmentation},
+  author={Wang, Le and Duan, Xuhuan and Zhang, Qilin and Niu, Zhenxing and Hua, Gang and Zheng, Nanning},
+  journal={Sensors},
+  volume={18},
+  number={5},
+  pages={1657},
+  year={2018},
+  DOI = {10.3390/s18051657},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
