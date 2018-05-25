@@ -1,0 +1,6 @@
+@inproceedings{duan2018joint,
+  title={Joint Spatio-temporal Action Localization in Untrimmed Videos with Per-frame Segmentation},
+  author={Duan, Xuhuan and Wang, Le and Zhai, Changbo and Zhang, Qilin and Niu, Zhenzing and Zheng, Nanning and Hua, Gang},
+  booktitle={IEEE International Conference on Image Processing (ICIP'2018), Athens, Greece},
+  year={2018} 
+}
