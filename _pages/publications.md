@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate)
+[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
 ##### Segment-Tube: Spatio-Temporal Action Localization in Untrimmed Videos with Per-Frame Segmentation
 Wang, Le, Xuhuan Duan, Qilin Zhang, Zhenxing Niu, Gang Hua, and Nanning Zheng, "Segment-Tube: Spatio-Temporal Action Localization in Untrimmed Videos with Per-Frame Segmentation", Sensors 18, no. 5 (2018): 1657. [[Link]](http://www.mdpi.com/1424-8220/18/5/1657), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Segment-Tube_Spatio-Temporal_Action_Localization_in_Untrimmed_Videos_with_Per-Frame_Segmentation.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/wang2018segment.txt?raw=true)
