@@ -1,0 +1,6 @@
+@inproceedings{wang2018enhanced,
+  title={Enhanced Action Recognition with Visual Attribute-augmented 3D Convolutional Neural Network},
+  author={Wang, Yunfeng and Zhou, Wengang and Zhang, Qilin and Li, Houqiang},
+  booktitle={IEEE International Conference on Multimedia and Expo (ICME'2018) Industry Program, San Diego, USA},
+  year={2018} 
+}
