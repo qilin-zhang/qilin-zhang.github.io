@@ -1,0 +1,7 @@
+@inproceedings{zang2018attention,
+  title={Attention-Based Temporal Weighted Convolutional Neural Network for Action Recognition},
+  author={Zang, Jinliang and Wang, Le and Liu, Ziyi and Zhang, Qilin and Hua, Gang and Zheng, Nanning},
+  booktitle={International Conference on Artificial Intelligence Applications and Innovations (AIAI'2018), Rhodes, Greece},
+  year={2018}
+  publisher={Springer International Publishing}
+}
