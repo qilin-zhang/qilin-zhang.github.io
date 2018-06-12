@@ -11,7 +11,7 @@ permalink: /publications/
 Wang, Le, Xuhuan Duan, Qilin Zhang, Zhenxing Niu, Gang Hua, and Nanning Zheng, "Segment-Tube: Spatio-Temporal Action Localization in Untrimmed Videos with Per-Frame Segmentation", Sensors 18, no. 5 (2018): 1657. [[Link]](https://doi.org/10.3390/s18051657), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Segment-Tube_Spatio-Temporal_Action_Localization_in_Untrimmed_Videos_with_Per-Frame_Segmentation.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/wang2018segment.txt?raw=true)
 
 ##### Video Object Co-segmentation from Noisy Videos by a Multi-level Hypergraph Model
-Lv, Xin, Le Wang, Qilin Zhang, Zhenzing Niu, Nanning Zheng, and Gang Hua. "Video Object Co-segmentation from Noisy Videos by a Multi-level Hypergraph Model", in Proc. IEEE International Conference on Image Processing (ICIP'2018), Athens, Greece, October, 2018. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/lv2018video.txt?raw=true)
+Lv, Xin, Le Wang, Qilin Zhang, Nanning Zheng, and Gang Hua. "Video Object Co-segmentation from Noisy Videos by a Multi-level Hypergraph Model", in Proc. IEEE International Conference on Image Processing (ICIP'2018), Athens, Greece, October, 2018. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/lv2018video.txt?raw=true)
 
 ##### Joint Spatio-temporal Action Localization in Untrimmed Videos with Per-frame Segmentation
 Duan, Xuhuan, Le Wang, Changbo Zhai, Qilin Zhang, Zhenzing Niu, Nanning Zheng, and Gang Hua. "Joint Spatio-temporal Action Localization in Untrimmed Videos with Per-frame Segmentation", in Proc. IEEE International Conference on Image Processing (ICIP'2018), Athens, Greece, October, 2018. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/duan2018joint.txt?raw=true)
