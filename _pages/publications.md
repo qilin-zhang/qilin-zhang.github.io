@@ -7,6 +7,9 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### Action Recognition by an Attention-Aware Temporal Weighted Convolutional Neural Network
+Wang, Le, Jinliang Zang, Qilin Zhang, Zhenxing Niu, Gang Hua, and Nanning Zheng, "Action Recognition by an Attention-Aware Temporal Weighted Convolutional Neural Network", Sensors 18, no. 7 (2018): 1979. [[Link]](https://doi.org/10.3390/s18071979), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/sensors-18-01979-Action_Recognition_by_an_Attention-Aware_Temporal_Weighted_Convolutional_Neural_Network.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/le2018action.txt?raw=true)
+
 ##### Segment-Tube: Spatio-Temporal Action Localization in Untrimmed Videos with Per-Frame Segmentation
 Wang, Le, Xuhuan Duan, Qilin Zhang, Zhenxing Niu, Gang Hua, and Nanning Zheng, "Segment-Tube: Spatio-Temporal Action Localization in Untrimmed Videos with Per-Frame Segmentation", Sensors 18, no. 5 (2018): 1657. [[Link]](https://doi.org/10.3390/s18051657), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Segment-Tube_Spatio-Temporal_Action_Localization_in_Untrimmed_Videos_with_Per-Frame_Segmentation.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/wang2018segment.txt?raw=true)
 
