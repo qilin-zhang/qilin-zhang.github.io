@@ -87,7 +87,7 @@ author:
   avatar           : "qz-photo.jpg"
   bio              : "Senior Research Engineer at HERE Technologies"
   location         : "Chicago, Illinois, USA"
-  email            : "samqzhang@gmail.com"
+  email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
