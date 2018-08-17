@@ -8,7 +8,7 @@ permalink: /publications/
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
 ##### Joint Video Object Discovery and Segmentation by Coupled Dynamic Markov Networks
-Ziyi Liu, Le Wang, Gang Hua, Qilin Zhang, Zhenxing Niu, Ying Wu, Nanning Zheng, "Joint Video Object Discovery and Segmentation by Coupled Dynamic Markov Networks", IEEE Transactions on Image Processing, 2018. 
+Ziyi Liu, Le Wang, Gang Hua, Qilin Zhang, Zhenxing Niu, Ying Wu, Nanning Zheng, "Joint Video Object Discovery and Segmentation by Coupled Dynamic Markov Networks", IEEE Transactions on Image Processing, July 2018. [[Link]](https://ieeexplore.ieee.org/abstract/document/8423204/)
 
 ##### Action Recognition by an Attention-Aware Temporal Weighted Convolutional Neural Network
 Wang, Le, Jinliang Zang, Qilin Zhang, Zhenxing Niu, Gang Hua, and Nanning Zheng, "Action Recognition by an Attention-Aware Temporal Weighted Convolutional Neural Network", Sensors 18, no. 7 (2018): 1979. [[Link]](https://doi.org/10.3390/s18071979), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/sensors-18-01979-Action_Recognition_by_an_Attention-Aware_Temporal_Weighted_Convolutional_Neural_Network.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/le2018action.txt?raw=true)
