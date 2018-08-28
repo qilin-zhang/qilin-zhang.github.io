@@ -10,3 +10,7 @@ Previously, I graduated with a Ph.D. in Computer Science from [Stevens Institute
 Prior to attending Stevens, I received my Bachelor of Engineering from [University of Science and Technology of China](http://en.ustc.edu.cn/) and my Master of Science from [University of Florida](http://www.ufl.edu/). 
 
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Machine Learning, Deep Learning and Computer Vision. 
+
+
+---
+A list of my publications could be found [here](https://qilin-zhang.github.io/publications/).
