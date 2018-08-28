@@ -11,3 +11,6 @@ Before, I worked as a Ph.D. student and research assistant at [Stevens Institute
 ---
 Previously, I graduated with a Ph.D. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/) in 2016. Prior to attending Stevens, I received my Bachelor of Engineering from [University of Science and Technology of China](http://en.ustc.edu.cn/) and my Master of Science from [University of Florida](http://www.ufl.edu/). My [old homepage at Stevens](http://personal.stevens.edu/~qzhang5/) gets occasional updates and some [miscellaneous resources](http://personal.stevens.edu/~qzhang5/old-index.html) are collected there. 
 Please see my [LinkedIn](https://www.linkedin.com/in/qzhang5) for more details. 
+
+---
+A list of my publications could be found [here](https://qilin-zhang.github.io/publications/).
