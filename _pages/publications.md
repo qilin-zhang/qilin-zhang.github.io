@@ -7,6 +7,9 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### Convolutional Neural Networks with Generalized Attentional Pooling for Action Recognition
+Yunfeng Wang, Wengang Zhou, Qilin Zhang, Houqiang Li, "Convolutional Neural Networks with Generalized Attentional Pooling for Action Recognition", IEEE International Conference on Visual Communications and Image Processing (VCIP), December 2018. (oral presentation)
+
 ##### Joint Video Object Discovery and Segmentation by Coupled Dynamic Markov Networks
 Ziyi Liu, Le Wang, Gang Hua, Qilin Zhang, Zhenxing Niu, Ying Wu, Nanning Zheng, "Joint Video Object Discovery and Segmentation by Coupled Dynamic Markov Networks", IEEE Transactions on Image Processing, July 2018. [[Link]](https://ieeexplore.ieee.org/abstract/document/8423204/)
 
