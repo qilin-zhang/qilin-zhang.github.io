@@ -1,0 +1,8 @@
+@INPROCEEDINGS{Wang2018Convolutional, 
+author={Wang, Yunfeng and Zhou, Wengang and Zhang, Qilin and Li, Houqiang}, 
+booktitle={2018 IEEE Visual Communications and Image Processing (VCIP)}, 
+title={Convolutional Neural Networks with Generalized Attentional Pooling for Action Recognition}, 
+year={2018}, 
+volume={}, 
+number={},  
+month={Dec}}
