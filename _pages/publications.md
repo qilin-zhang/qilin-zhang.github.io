@@ -7,6 +7,10 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### \[23\] Extracting Action Sensitive Features to Facilitate Weakly-supervised Action Localization
+Zijian Kang, Le Wang, Ziyi Liu, Qilin Zhang, and Nanning Zheng, "Extracting Action Sensitive Features to Facilitate Weakly-supervised Action Localization", In Proceedings of the 15th International Conference on Artificial Intelligence Applications and Innovations (AIAI'2019), May 24-26, 2019, Crete, Greece. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Extracting_Action_Sensitive_Features_to_Facilitate_Weakly-supervised_Action_Localization.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/Kang2019ExtractingAction.txt?raw=true)
+
+
 ##### \[22\] Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos
 Zhanning Gao, Le Wang, Qilin Zhang, Zhenxing Niu, Nanning Zheng, and Gang Hua, “Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos”, In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19), January 27 - February 1, 2019, Honolulu, Hawaii, USA. (oral presentation) [[Link]](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoZ.644.pdf), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Video_Imprint_Segmentation_for_Temporal_Action_Detection_in_Untrimmed_Videos.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Gao2019VideoImprint.txt?raw=true)
 
