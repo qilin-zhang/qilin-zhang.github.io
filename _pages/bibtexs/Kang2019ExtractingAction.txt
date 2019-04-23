@@ -1,0 +1,7 @@
+@inproceedings{Kang2019ExtractingAction,
+  title={Extracting Action Sensitive Features to Facilitate Weakly-supervised Action Localization},
+  author={Kang, Zijian and Wang, Le and Liu, Ziyi and Zhang, Qilin and Zheng, Nanning}, 
+  booktitle={International Conference on Artificial Intelligence Applications and Innovations (AIAI'2019), Crete, Greece},
+  year={2019},
+  publisher={Springer International Publishing}
+}
