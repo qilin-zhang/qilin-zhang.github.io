@@ -1,0 +1,6 @@
+@inproceedings{Gao2019VideoImprint,
+  title={Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos},
+  author={Gao, Zhanning and Wang, Le and Zhang, Qilin and Niu, Zhenxing and Zheng, Nanning and Hua, Gang},
+  booktitle={AAAI Conference on Artificial Intelligence, Honolulu, Hawaii, USA},
+  year={2019}
+}
