@@ -7,6 +7,9 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos
+Zhanning Gao, Le Wang, Qilin Zhang, Zhenxing Niu, Nanning Zheng, and Gang Hua, “Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos”, In Proceedings of the 33rd AAAI Conference on Artificial Intelligence (AAAI-19), January 27 - February 1, 2019, Honolulu, Hawaii, USA. (oral presentation) [[Link]](https://www.aaai.org/Papers/AAAI/2019/AAAI-GaoZ.644.pdf), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Video_Imprint_Segmentation_for_Temporal_Action_Detection_in_Untrimmed_Videos.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Gao2019VideoImprint.txt?raw=true)
+
 ##### Convolutional Neural Networks with Generalized Attentional Pooling for Action Recognition
 Yunfeng Wang, Wengang Zhou, Qilin Zhang, Houqiang Li, "Convolutional Neural Networks with Generalized Attentional Pooling for Action Recognition", IEEE International Conference on Visual Communications and Image Processing (VCIP), December 2018. (oral presentation) [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Convolutional_Neural_Networks_with_Generalized_Attentional_Pooling_for_Action_Recognition.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2018Convolutional.txt?raw=true)
 
