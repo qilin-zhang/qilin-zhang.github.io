@@ -7,6 +7,9 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### \[24\] Action Coherence Network for Weakly Supervised Temporal Action Localization
+Yuanhao Zhai, Ziyi Liu, Le Wang, Qilin Zhang, Gang Hua, and Nanning Zheng, "Action Coherence Network for Weakly Supervised Temporal Action Localization", in Proc. IEEE International Conference on Image Processing (ICIP'2019), Taipei, Taiwan, September 22-25, 2019. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhai2019actioncoherence.txt?raw=true)
+
 ##### \[23\] Extracting Action Sensitive Features to Facilitate Weakly-supervised Action Localization
 Zijian Kang, Le Wang, Ziyi Liu, Qilin Zhang, and Nanning Zheng, "Extracting Action Sensitive Features to Facilitate Weakly-supervised Action Localization", In Proceedings of the 15th International Conference on Artificial Intelligence Applications and Innovations (AIAI'2019), May 24-26, 2019, Crete, Greece. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Extracting_Action_Sensitive_Features_to_Facilitate_Weakly-supervised_Action_Localization.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/Kang2019ExtractingAction.txt?raw=true)
 
