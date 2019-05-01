@@ -1,0 +1,6 @@
+@inproceedings{zhai2019actioncoherence,
+  title={Action Coherence Network for Weakly Supervised Temporal Action Localization}, 
+  author={Zhai, Yuanhao and Liu, Ziyi and Wang, Le and Zhang, Qilin and Hua, Gang and Zheng, Nanning},
+  booktitle={IEEE International Conference on Image Processing (ICIP'2019), Taipei, Taiwan},
+  year={2019} 
+} 
