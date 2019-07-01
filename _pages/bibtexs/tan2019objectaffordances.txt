@@ -1,0 +1,6 @@
+@inproceedings{tan2019objectaffordances,
+  author    = {Tan, Haoliang and Wang, Le and Zhang, Qilin and Gao, Zhanning and Zheng, Nanning and Hua, Gang},
+  title     = {Object Affordances Graph Network for Action Recognition},
+  booktitle = {30th British Machine Vision Conference, BMVC 2019, Cardiff University, Cardiff, UK, September 9-12},
+  year      = {2019}
+}
