@@ -8,7 +8,7 @@ permalink: /publications/
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
 ##### \[26\] Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks
-Ziyi Liu, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks", in Proc. IEEE International Conference in Computer Vision (ICCV 2019), Seoul, Korea, Oct. 27-Nov. 2, 2019. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/liu2019weaklysupervised.txt?raw=true)
+Ziyi Liu, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks", in Proc. IEEE International Conference in Computer Vision (ICCV 2019), Seoul, Korea, Oct. 27-Nov. 2, 2019. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/liu2019weaklysupervised.txt)
 
 ##### \[25\] Action Coherence Network for Weakly Supervised Temporal Action Localization
 Yuanhao Zhai, Ziyi Liu, Le Wang, Qilin Zhang, Gang Hua, and Nanning Zheng, "Action Coherence Network for Weakly Supervised Temporal Action Localization", in Proc. IEEE International Conference on Image Processing (ICIP'2019), Taipei, September 22-25, 2019. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhai2019actioncoherence.txt?raw=true)
