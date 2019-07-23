@@ -7,11 +7,14 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### \[26\] Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks
+Ziyi Liu, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks", in Proc. IEEE International Conference in Computer Vision (ICCV 2019), Seoul, Korea, Oct. 27-Nov. 2, 2019. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/liu2019weaklysupervised.txt?raw=true)
+
 ##### \[25\] Action Coherence Network for Weakly Supervised Temporal Action Localization
 Yuanhao Zhai, Ziyi Liu, Le Wang, Qilin Zhang, Gang Hua, and Nanning Zheng, "Action Coherence Network for Weakly Supervised Temporal Action Localization", in Proc. IEEE International Conference on Image Processing (ICIP'2019), Taipei, September 22-25, 2019. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhai2019actioncoherence.txt?raw=true)
 
 ##### \[24\] Object Affordances Graph Network for Action Recognition
-Haoliang Tan, Le Wang, Qilin Zhang, Zhanning Gao, Nanning Zheng, and Gang Hua, "Object Affordances Graph Network for Action Recognition", in Proc. 30th British Machine Vision Conference, BMVC 2019, Cardiff University, Cardiff, UK, September 9-12, 2019. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/tan2019objectaffordances.txt)
+Haoliang Tan, Le Wang, Qilin Zhang, Zhanning Gao, Nanning Zheng, and Gang Hua, "Object Affordances Graph Network for Action Recognition", in Proc. 30th British Machine Vision Conference, BMVC 2019, Cardiff University, Cardiff, UK, September 9-12, 2019. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/tan2019objectaffordances.txt?raw=true)
 
 ##### \[23\] Extracting Action Sensitive Features to Facilitate Weakly-supervised Action Localization
 Zijian Kang, Le Wang, Ziyi Liu, Qilin Zhang, and Nanning Zheng, "Extracting Action Sensitive Features to Facilitate Weakly-supervised Action Localization", In Proceedings of the 15th International Conference on Artificial Intelligence Applications and Innovations (AIAI'2019), May 24-26, 2019, Crete, Greece. [[Link]](https://doi.org/10.1007/978-3-030-19823-7_15), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Extracting_Action_Sensitive_Features_to_Facilitate_Weakly-supervised_Action_Localization.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/Kang2019ExtractingAction.txt?raw=true)
