@@ -13,4 +13,4 @@ Previously, I graduated with a Ph.D. in Computer Science from [Stevens Institute
 Please see my [LinkedIn](https://www.linkedin.com/in/qzhang5) for more details. 
 
 ---
-A list of my publications could be found [here](https://qilin-zhang.github.io/publications/).
+A full list of my publications could be found [here](https://qilin-zhang.github.io/publications/).
