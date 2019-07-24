@@ -13,4 +13,4 @@ As a passionate engineer and researcher, I appreciate the opportunities to build
 
 
 ---
-A list of my publications could be found [here](https://qilin-zhang.github.io/publications/).
+A full list of my publications could be found [here](https://qilin-zhang.github.io/publications/).
