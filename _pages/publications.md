@@ -11,7 +11,7 @@ permalink: /publications/
 Ziyi Liu, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks", in Proc. IEEE International Conference in Computer Vision (ICCV 2019), Seoul, Korea, Oct. 27-Nov. 2, 2019. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/liu2019weaklysupervised.txt)
 
 ##### \[25\] Action Coherence Network for Weakly Supervised Temporal Action Localization
-Yuanhao Zhai, Ziyi Liu, Le Wang, Qilin Zhang, Gang Hua, and Nanning Zheng, "Action Coherence Network for Weakly Supervised Temporal Action Localization", in Proc. IEEE International Conference on Image Processing (ICIP'2019), Taipei, September 22-25, 2019. [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhai2019actioncoherence.txt?raw=true)
+Yuanhao Zhai, Ziyi Liu, Le Wang, Qilin Zhang, Gang Hua, and Nanning Zheng, "Action Coherence Network for Weakly Supervised Temporal Action Localization", in Proc. IEEE International Conference on Image Processing (ICIP'2019), Taipei, September 22-25, 2019. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Action_Coherence_Network_for_Weakly_Supervised_Temporal_Action_Localization.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhai2019actioncoherence.txt?raw=true)
 
 ##### \[24\] Object Affordances Graph Network for Action Recognition
 Haoliang Tan, Le Wang, Qilin Zhang, Zhanning Gao, Nanning Zheng, and Gang Hua, "Object Affordances Graph Network for Action Recognition", in Proc. 30th British Machine Vision Conference, BMVC 2019, Cardiff University, Cardiff, UK, September 9-12, 2019. (Spotlight) [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/tan2019objectaffordances.txt?raw=true)
