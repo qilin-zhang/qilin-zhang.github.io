@@ -1,7 +1,7 @@
 ---
 title: Projects
 subtitle: Qilin Zhang
-permalink: /projects/
+permalink: /blogs/
 ---
 
 Under construction...
