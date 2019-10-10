@@ -7,6 +7,11 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+
+##### \[27\] Action Co-Localization in an Untrimmed Video by Graph Neural Networks
+Changbo Zhai, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Action Co-Localization in an Untrimmed Video by Graph Neural Networks", in Proc. 26th International Conference On Multimedia Modeling (MMM 2020), Daejeon, Korea, Jan. 5-8, 2020. 
+
+
 ##### \[26\] Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks
 Ziyi Liu, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks", in Proc. IEEE International Conference in Computer Vision (ICCV 2019), Seoul, Korea, Oct. 27-Nov. 2, 2019. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Weakly_Supervised_Temporal_Action_Localization_through_Contrast_based_Evaluation_Networks.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/liu2019weaklysupervised.txt)
 
