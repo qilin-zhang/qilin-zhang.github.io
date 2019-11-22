@@ -1,0 +1,5 @@
+@inproceedings{mozhou2020ladderloss,
+  author    = {Mo Zhou and Zhenxing Niu and Le Wang and Zhanning Gao and Qilin Zhang and Gang Hua},
+  title     = {Ladder Loss for Coherent Visual-Semantic Embedding},
+  booktitle = {Thirty-fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 7-12, 2020, New York, USA}
+}
