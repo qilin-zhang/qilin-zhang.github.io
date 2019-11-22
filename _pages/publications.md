@@ -8,10 +8,10 @@ permalink: /publications/
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
 ##### \[28\] Ladder Loss for Coherent Visual-Semantic Embedding
-Mo Zhou, Zhenxing Niu, Le Wang, Zhanning Gao, Qilin Zhang, Gang Hua, "Ladder Loss for Coherent Visual-Semantic Embedding", In Proceedings of thirty-fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 7-12, 2020, New York, New York, USA. 
+Mo Zhou, Zhenxing Niu, Le Wang, Zhanning Gao, Qilin Zhang, Gang Hua, "Ladder Loss for Coherent Visual-Semantic Embedding", In Proceedings of thirty-fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 7-12, 2020, New York, New York, USA. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Ladder_Loss_for_Coherent_Visual-Semantic_Embedding.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/mozhou2020ladderloss.txt)
 
 ##### \[27\] Action Co-Localization in an Untrimmed Video by Graph Neural Networks
-Changbo Zhai, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Action Co-Localization in an Untrimmed Video by Graph Neural Networks", in Proc. 26th International Conference On Multimedia Modeling (MMM 2020), Daejeon, Korea, Jan. 5-8, 2020. 
+Changbo Zhai, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Action Co-Localization in an Untrimmed Video by Graph Neural Networks", in Proc. 26th International Conference On Multimedia Modeling (MMM 2020), Daejeon, Korea, Jan. 5-8, 2020. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Action_Co-Localization_in_an_Untrimmed_Video_by_Graph_Neural_Networks.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/zhai2020actioncolocalization.txt)
 
 
 ##### \[26\] Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks
