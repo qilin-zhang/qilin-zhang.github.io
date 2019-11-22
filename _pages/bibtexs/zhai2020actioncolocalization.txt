@@ -1,0 +1,5 @@
+@inproceedings{zhai2020actioncolocalization,
+  author    = {Changbo Zhai and Le Wang and Qilin Zhang and Zhanning Gao and Zhenxing Niu and Nanning Zheng and Gang Hua},
+  title     = {Action Co-Localization in an Untrimmed Video by Graph Neural Networks},
+  booktitle = {26th International Conference On Multimedia Modeling (MMM 2020), Daejeon, Korea, Jan. 5-8, 2020}
+}
