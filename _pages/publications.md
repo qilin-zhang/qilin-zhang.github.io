@@ -7,6 +7,9 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### \[29\] Fine-grained Giant Panda Identification
+Rizhi Ding, Wang Le, Qilin Zhang, Zhenxing Niu, Nanning Zheng, Gang Hua, "Fine-grained Giant Panda Identification", In Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020), Barcelona, Spain. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Fine-grained_Giant_Panda_Identification.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/ding2020finegrained.txt)
+
 ##### \[28\] Ladder Loss for Coherent Visual-Semantic Embedding
 Mo Zhou, Zhenxing Niu, Le Wang, Zhanning Gao, Qilin Zhang, Gang Hua, "Ladder Loss for Coherent Visual-Semantic Embedding", In Proceedings of thirty-fourth AAAI Conference on Artificial Intelligence (AAAI-20), February 7-12, 2020, New York, New York, USA. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Ladder_Loss_for_Coherent_Visual-Semantic_Embedding.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/mozhou2020ladderloss.txt)
 
