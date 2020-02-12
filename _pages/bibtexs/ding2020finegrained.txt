@@ -1,0 +1,6 @@
+@inproceedings{ding2020finegrained,
+  title={Fine-grained Giant Panda Identification}, 
+  author={Ding, Rizhi and Le, Wang and Zhang, Qilin and Niu, Zhenxing and Zheng, Nanning and Hua, Gang}, 
+  booktitle={IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020), Barcelona, Spain},
+  year={2020} 
+}
