@@ -1,0 +1,7 @@
+@inproceedings{Xinling2020Joint,
+  title={Joint Multi-Object Detection and Segmentation from an Untrimmed Video},
+  author={Liu, Xinling and Wang, Le and Zhang, Qilin and Zheng, Nanning and Hua, Gang}, 
+  booktitle={International Conference on Artificial Intelligence Applications and Innovations (AIAI'2020), Halkidiki, Greece},
+  year={2020},
+  publisher={Springer International Publishing}
+}
