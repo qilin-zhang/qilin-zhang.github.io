@@ -7,6 +7,10 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+
+##### \[30\] Joint Multi-Object Detection and Segmentation from an Untrimmed Video
+Xinling Liu, Le Wang, Qilin Zhang, Nanning Zheng, and Gang Hua, "Joint Multi-Object Detection and Segmentation from an Untrimmed Video", in Proc. IFIP International Conference on Artificial Intelligence Applications and Innovations (AIAI'2020), Halkidiki, Greece, 5-7 June, 2020. (Oral Presentation) [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Xinling2020Joint.txt)
+
 ##### \[29\] Fine-grained Giant Panda Identification
 Rizhi Ding, Wang Le, Qilin Zhang, Zhenxing Niu, Nanning Zheng, Gang Hua, "Fine-grained Giant Panda Identification", In Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020), Barcelona, Spain. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Fine-grained_Giant_Panda_Identification.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/ding2020finegrained.txt)
 
