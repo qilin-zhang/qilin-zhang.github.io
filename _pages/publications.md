@@ -8,7 +8,7 @@ permalink: /publications/
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
 ##### \[31\] Object Cosegmentation in Noisy Videos with Multilevel Hypergraph
-Le Wang, Xin Lv, Qilin Zhang, Zhenxing Niu, Nanning Zheng, Gang Hua, "Object Cosegmentation in Noisy Videos with Multilevel Hypergraph", IEEE Transactions on Multimedia (T-MM), 2020. (accepted and to appear)
+Le Wang, Xin Lv, Qilin Zhang, Zhenxing Niu, Nanning Zheng, Gang Hua, "Object Cosegmentation in Noisy Videos with Multilevel Hypergraph", IEEE Transactions on Multimedia (T-MM), May 2020. [[Link]](https://doi.org/10.1109/TMM.2020.2995266), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2020ObjectCosegmentation.txt)
 
 ##### \[30\] Joint Multi-Object Detection and Segmentation from an Untrimmed Video
 Xinling Liu, Le Wang, Qilin Zhang, Nanning Zheng, and Gang Hua, "Joint Multi-Object Detection and Segmentation from an Untrimmed Video", in Proc. IFIP International Conference on Artificial Intelligence Applications and Innovations (AIAI'2020), Halkidiki, Greece, 5-7 June, 2020. (Oral Presentation) [[Link]](https://doi.org/10.1007/978-3-030-49161-1_27), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Liu2020_Chapter_JointMulti-objectDetectionAndS.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Xinling2020Joint.txt)
