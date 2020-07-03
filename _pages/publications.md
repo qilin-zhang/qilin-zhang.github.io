@@ -7,8 +7,14 @@ permalink: /publications/
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
+##### \[33\] Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization
+Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Junsong Yuan, Gang Hua, "Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization", in Proc. 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2020TwoStreamConsensus.txt)
+
+##### \[32\] Adversarial Ranking Attack and Defense
+Mo Zhou, Zhenxing Niu, Le Wang, Qilin Zhang, Gang Hua, "Adversarial Ranking Attack and Defense",in Proc. 16th European Conference on Computer Vision (ECCV 2020), 23-28 August 2020. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhou2020eccvAdversarial.txt)
+
 ##### \[31\] Object Cosegmentation in Noisy Videos with Multilevel Hypergraph
-Le Wang, Xin Lv, Qilin Zhang, Zhenxing Niu, Nanning Zheng, Gang Hua, "Object Cosegmentation in Noisy Videos with Multilevel Hypergraph", IEEE Transactions on Multimedia (T-MM), May 2020. [[Link]](https://doi.org/10.1109/TMM.2020.2995266), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2020ObjectCosegmentation.txt)
+Le Wang, Xin Lv, Qilin Zhang, Zhenxing Niu, Nanning Zheng, Gang Hua, "Object Cosegmentation in Noisy Videos with Multilevel Hypergraph", IEEE Transactions on Multimedia (T-MM), May 2020. [[Link]](https://doi.org/10.1109/TMM.2020.2995266), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Object_Cosegmentation_in_Noisy_Videos.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2020ObjectCosegmentation.txt)
 
 ##### \[30\] Joint Multi-Object Detection and Segmentation from an Untrimmed Video
 Xinling Liu, Le Wang, Qilin Zhang, Nanning Zheng, and Gang Hua, "Joint Multi-Object Detection and Segmentation from an Untrimmed Video", in Proc. IFIP International Conference on Artificial Intelligence Applications and Innovations (AIAI'2020), Halkidiki, Greece, 5-7 June, 2020. (Oral Presentation) [[Link]](https://doi.org/10.1007/978-3-030-49161-1_27), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Liu2020_Chapter_JointMulti-objectDetectionAndS.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Xinling2020Joint.txt)
@@ -24,7 +30,7 @@ Changbo Zhai, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, G
 
 
 ##### \[26\] Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks
-Ziyi Liu, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks", in Proc. IEEE International Conference in Computer Vision (ICCV 2019), Seoul, Korea, Oct. 27-Nov. 2, 2019. [[Link]](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Weakly_Supervised_Temporal_Action_Localization_Through_Contrast_Based_Evaluation_Networks_ICCV_2019_paper.html), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Weakly_Supervised_Temporal_Action_Localization_through_Contrast_based_Evaluation_Networks.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/liu2019weaklysupervised.txt)
+Ziyi Liu, Le Wang, Qilin Zhang, Zhanning Gao, Zhenxing Niu, Nanning Zheng, Gang Hua, "Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks", in Proc. IEEE International Conference on Computer Vision (ICCV 2019), Seoul, Korea, Oct. 27-Nov. 2, 2019. [[Link]](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Weakly_Supervised_Temporal_Action_Localization_Through_Contrast_Based_Evaluation_Networks_ICCV_2019_paper.html), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Weakly_Supervised_Temporal_Action_Localization_through_Contrast_based_Evaluation_Networks.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/liu2019weaklysupervised.txt)
 
 ##### \[25\] Action Coherence Network for Weakly Supervised Temporal Action Localization
 Yuanhao Zhai, Le Wang, Ziyi Liu, Qilin Zhang, Gang Hua, and Nanning Zheng, "Action Coherence Network for Weakly Supervised Temporal Action Localization", in Proc. IEEE International Conference on Image Processing (ICIP'2019), Taipei, September 22-25, 2019. [[Link]](https://doi.org/10.1109/ICIP.2019.8803447), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Action_Coherence_Network_for_Weakly_Supervised_Temporal_Action_Localization.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhai2019actioncoherence.txt?raw=true)
