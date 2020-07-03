@@ -1,0 +1,7 @@
+@InProceedings{Zhai2020TwoStreamConsensus,
+author = {Zhai, Yuanhao and Wang, Le and Tang, Wei and Zhang, Qilin and Yuan, Junsong and Hua, Gang},
+title = {Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization},
+booktitle = {16th European Conference on Computer Vision (ECCV)},
+month = {August},
+year = {2020}
+}
