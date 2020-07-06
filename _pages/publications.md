@@ -11,7 +11,7 @@ permalink: /publications/
 Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Junsong Yuan, Gang Hua, "Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2020TwoStreamConsensus.txt)
 
 ##### \[32\] Adversarial Ranking Attack and Defense
-Mo Zhou, Zhenxing Niu, Le Wang, Qilin Zhang, Gang Hua, "Adversarial Ranking Attack and Defense", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[arXiv]](https://arxiv.org/abs/2002.11293), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhou2020eccvAdversarial.txt)
+Mo Zhou, Zhenxing Niu, Le Wang, Qilin Zhang, Gang Hua, "Adversarial Ranking Attack and Defense", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Adversarial_Ranking_Attack_and_Defense-eccv2020-2274.pdf), [[arXiv]](https://arxiv.org/abs/2002.11293), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhou2020eccvAdversarial.txt)
 
 ##### \[31\] Object Cosegmentation in Noisy Videos with Multilevel Hypergraph
 Le Wang, Xin Lv, Qilin Zhang, Zhenxing Niu, Nanning Zheng, Gang Hua, "Object Cosegmentation in Noisy Videos with Multilevel Hypergraph", IEEE Transactions on Multimedia (T-MM), May 2020. [[Link]](https://doi.org/10.1109/TMM.2020.2995266), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Object_Cosegmentation_in_Noisy_Videos.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2020ObjectCosegmentation.txt)
