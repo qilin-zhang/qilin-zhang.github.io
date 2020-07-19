@@ -8,7 +8,7 @@ permalink: /publications/
 [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
 
 ##### \[33\] Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization
-Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Junsong Yuan, Gang Hua, "Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Two-Stream_Consensus_Network_for_Weakly-Supervised_Temporal_Action_Localization-eccv2020.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2020TwoStreamConsensus.txt)
+Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Junsong Yuan, Gang Hua, "Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Two-Stream_Consensus_Network_for_Weakly-Supervised_Temporal_Action_Localization-eccv2020.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2020TwoStreamConsensus.txt)
 
 ##### \[32\] Adversarial Ranking Attack and Defense
 Mo Zhou, Zhenxing Niu, Le Wang, Qilin Zhang, Gang Hua, "Adversarial Ranking Attack and Defense", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Adversarial_Ranking_Attack_and_Defense-eccv2020-2274.pdf), [[arXiv]](https://arxiv.org/abs/2002.11293), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhou2020eccvAdversarial.txt)
