@@ -1,0 +1,8 @@
+@misc{zhang2020automatic,
+  title={Automatic localization geometry generator for stripe-shaped objects},
+  author={Zhang, Qilin and Ma, Xiang and Chen, Xin and Sood, Sanjay and Tabb, Mark and Luo, Chen},
+  year={2020},
+  month=jun # "~30",
+  publisher={Google Patents},
+  note={US Patent 10,699,135}
+}
