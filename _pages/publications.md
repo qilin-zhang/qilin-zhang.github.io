@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[Legacy Homepage]](http://personal.stevens.edu/~qzhang5/)
+Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).
 
 ##### \[33\] Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization
 Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Junsong Yuan, Gang Hua, "Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Two-Stream_Consensus_Network_for_Weakly-Supervised_Temporal_Action_Localization-eccv2020.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2020TwoStreamConsensus.txt)
