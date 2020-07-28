@@ -4,7 +4,7 @@ subtitle: Qilin Zhang
 permalink: /contact/
 ---
 
-**Dr. Qilin Zhang**  
+**Qilin Zhang, Ph.D.**  
 HERE Technologies  
 425 W Randolph St  
 Chicago, IL 60606  
