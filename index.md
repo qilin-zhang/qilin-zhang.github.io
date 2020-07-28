@@ -10,7 +10,11 @@ Previously, I graduated with a Ph.D. in Computer Science from [Stevens Institute
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Machine Learning, Deep Learning and Computer Vision. 
 
 ---
-A full list of my publications could be found [here](https://qilin-zhang.github.io/publications/).
+A full list of my publications could be found on the [PUBLICATIONS](https://qilin-zhang.github.io/publications/) tab.
+
+---
+
+[[LinkedIn]](https://www.linkedin.com/in/qzhang5/), [[Homepage]](https://qilin-zhang.github.io/publications/), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[ORCID]](https://orcid.org/0000-0002-7917-9749), [[Publons]](https://publons.com/a/1348230) 
 
 ---
 ### Selected Conference Publications 
