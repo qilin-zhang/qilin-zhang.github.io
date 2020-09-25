@@ -8,7 +8,7 @@ permalink: /publications/
 Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).
 
 ##### \[34\] Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion
-Benyi Hu, Chi Zhang, Le Wang, Qilin Zhang Yuehu Liu, "Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion", in Proc. 15th Asian Conference on Computer Vision (ACCV), Nov. 30-Dec. 4, 2020, Virtual Kyoto. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Multi-label_X-ray_Imagery_Classification_via_Bottom-up_Attention_and_Meta_Fusion_ACCV2020.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Hu2020Multi.txt)
+Benyi Hu, Chi Zhang, Le Wang, Qilin Zhang, Yuehu Liu, "Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion", in Proc. 15th Asian Conference on Computer Vision (ACCV), Nov. 30-Dec. 4, 2020, Virtual Kyoto. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Multi-label_X-ray_Imagery_Classification_via_Bottom-up_Attention_and_Meta_Fusion_ACCV2020.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Hu2020Multi.txt)
 
 ##### \[33\] Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization
 Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Junsong Yuan, Gang Hua, "Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization", in Proc. 16th European Conference on Computer Vision (ECCV), 23-28 August 2020. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Two-Stream_Consensus_Network_for_Weakly-Supervised_Temporal_Action_Localization-eccv2020.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2020TwoStreamConsensus.txt)
