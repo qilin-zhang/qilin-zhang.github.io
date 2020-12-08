@@ -6,6 +6,8 @@ permalink: /publications/
 
 
 Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).
+##### \[35\] ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization
+Ziyi Liu, Le Wang, Qilin Zhang, Wei Tang, Junsong Yuan, Nanning Zheng, and Gang Hua, "ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization", 35th AAAI Conference on Artificial Intelligence (AAAI'2021), A Virtual Conference, February 2-9,2021. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Liu2021ACSNet.txt)
 
 ##### \[34\] Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion
 Benyi Hu, Chi Zhang, Le Wang, Qilin Zhang, Yuehu Liu, "Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion", in Proc. 15th Asian Conference on Computer Vision (ACCV), Nov. 30-Dec. 4, 2020, Virtual Kyoto. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Multi-label_X-ray_Imagery_Classification_via_Bottom-up_Attention_and_Meta_Fusion_ACCV2020.pdf?raw=true), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Hu2020Multi.txt)
