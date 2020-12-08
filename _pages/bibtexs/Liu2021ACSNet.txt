@@ -1,0 +1,5 @@
+@inproceedings{Liu2021ACSNet,
+  author    = {Ziyi Liu and Le Wang and Qilin Zhang and Wei Tang and Junsong Yuan and Nanning Zheng and Gang Hua},
+  title     = {ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization},
+  booktitle = {Thirty-fifth AAAI Conference on Artificial Intelligence (AAAI-21), February 2-9, 2021}
+}
