@@ -85,8 +85,8 @@ analytics:
 author:
   name             : "Qilin Zhang, Ph.D."
   avatar           : "qz-photo.jpg"
-  bio              : "Lead Research Engineer, HERE Technologies"
-  location         : "Chicago, Illinois, USA"
+  bio              : "Senior Research Scientist, ABB Corporate Research Center" # "Lead Research Engineer, HERE Technologies"
+  location         : "Raleigh, North Carolina, USA" #"Chicago, Illinois, USA"
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
