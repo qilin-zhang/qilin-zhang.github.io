@@ -4,7 +4,7 @@ subtitle: Qilin Zhang
 permalink: /contact/
 ---
 
-**Qilin Zhang, Ph.D.** 
+**Qilin Zhang, Ph.D.**   
 ABB Corporate Research  
 940 Main Campus Dr  
 Raleigh, NC, 27606, USA  
