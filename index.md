@@ -3,11 +3,11 @@ title: Qilin Zhang
 layout: single
 author_profile: true
 ---
-I am currently a Lead Research Engineer in the Content Engineering team at [HERE Technologies](https://here.com/). 
+I am currently a Senior Research Scientist at [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/usa) in [Raleigh, North Carolina](https://en.wikipedia.org/wiki/Raleigh,_North_Carolina), USA. 
 
-Previously, I graduated with a Ph.D. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), Hoboken, NJ in the summer of 2016. During my Ph.D. studies, I worked in areas such as Machine Learning (including Deep Learning, CNNs), multimedia signal processing and Computer Vision. Prior to attending Stevens, I received my Master of Science from [University of Florida](http://www.ufl.edu/). 
+Previously, I worked for [HERE Technologies](https://www.here.com/) from 2016 to 2020, first as a Senior Research Engineer and later as a Lead Research Engineer. Prior to that, I graduated with a Ph.D. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), [Hoboken, NJ](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey) in the summer of 2016. During my Ph.D. studies, I worked in areas including Computer Vision and Machine Learning (e.g., deep learning, convolutional neural networks) and multimedia signal processing. Prior to attending Stevens, I received my M.S. in Electrical and Computer Engineeering from [University of Florida](http://www.ufl.edu/) in 2011. 
 
-As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Machine Learning, Deep Learning and Computer Vision. 
+As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Computer Vision, Machine Learning, Deep Learning and Robotics. 
 
 ---
 A full list of my publications could be found on the [PUBLICATIONS](https://qilin-zhang.github.io/publications/) tab.
