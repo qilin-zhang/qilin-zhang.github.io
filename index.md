@@ -3,9 +3,9 @@ title: Qilin Zhang
 layout: single
 author_profile: true
 ---
-I am currently a Senior Research Scientist at [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/usa) in [Raleigh, North Carolina](https://en.wikipedia.org/wiki/Raleigh,_North_Carolina), USA. 
+I am currently a Senior Research Scientist at [ABB Corporate Research Center](https://global.abb/group/en/technology/corporate-research-centers/usa)<sup>1</sup> in [Raleigh, North Carolina](https://en.wikipedia.org/wiki/Raleigh,_North_Carolina), USA. 
 
-Previously, I worked for [HERE Technologies](https://www.here.com/) from 2016 to 2020, first as a Senior Research Engineer and later as a Lead Research Engineer. Prior to that, I graduated with a Ph.D. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), [Hoboken, NJ](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey) in the summer of 2016. During my Ph.D. studies, I worked in areas including Computer Vision and Machine Learning (e.g., deep learning, convolutional neural networks) and multimedia signal processing. Prior to attending Stevens, I received my M.S. in Electrical and Computer Engineeering from [University of Florida](http://www.ufl.edu/) in 2011. 
+Previously, I worked for [HERE Technologies](https://www.here.com/)<sup>2</sup> from 2016 to 2020, first as a Senior Research Engineer and later as a Lead Research Engineer. Prior to that, I graduated with a Ph.D. in Computer Science from [Stevens Institute of Technology](https://www.stevens.edu/), [Hoboken, NJ](https://en.wikipedia.org/wiki/Hoboken,_New_Jersey) in the summer of 2016. During my Ph.D. studies, I worked in areas including Computer Vision and Machine Learning (e.g., deep learning, convolutional neural networks) and multimedia signal processing. Prior to attending Stevens, I received my M.S. in Electrical and Computer Engineeering from [University of Florida](http://www.ufl.edu/) in 2011. 
 
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in Computer Vision, Machine Learning, Deep Learning and Robotics. 
 
@@ -41,5 +41,7 @@ Ziyi Liu, Le Wang, Gang Hua, Qilin Zhang, Zhenxing Niu, Ying Wu, Nanning Zheng, 
 Abeida, Habti, Qilin Zhang, Jian Li, and Nadjim Merabtine. "Iterative sparse asymptotic minimum variance based approaches for array processing." IEEE Transactions on Signal Processing 61, no. 4 (2013): 933-944. [[Link]](http://dx.doi.org/10.1109/TSP.2012.2231676), [[arXiv]](https://arxiv.org/abs/1802.03070), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/SAMVpaper.pdf?raw=true), [[Code Zip]](https://qilin-zhang.github.io/_pages/zips/Iterative_Sparse_Asymptotic_Minimum_Variance_Based_Approach_Matlab_Codes.zip?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/abeida2013iterative.txt?raw=true)
 
 
-Disclaimer:
-**Electronic papers shared on this website are for fast dissemination of research work. The copyrights of the papers belong to the corresponding publishers.**
+
+**Disclaimer: \
+<sup>1,2</sup>All views, contents or opinions expressed here are solely my own and do not express the views or opinions of my employer. 
+Electronic papers shared on this website are for fast dissemination of research work. The copyrights of the papers belong to the corresponding publishers.**
