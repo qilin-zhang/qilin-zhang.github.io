@@ -1,0 +1,8 @@
+@article{Wang2020Graph,
+title = "Graph-based Temporal Action Co-Localization from an Untrimmed Video",
+journal = "Neurocomputing",
+year = "2021",
+issn = "0925-2312",
+doi = "https://doi.org/10.1016/j.neucom.2020.12.126",
+author = "Le Wang and Changbo Zhai and Qilin Zhang and Wei Tang and Nanning Zheng and Gang Hua"
+}
