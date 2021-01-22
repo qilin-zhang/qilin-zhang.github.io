@@ -5,7 +5,10 @@ permalink: /publications/
 ---
 
 
-Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).
+Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).   
+##### \[36\] Graph-based Temporal Action Co-Localization from an Untrimmed Video
+Le Wang, Changbo Zhai, Qilin Zhang, Wei Tang, Nanning Zheng, and Gang Hua, "Graph-based Temporal Action Co-Localization from an Untrimmed Video", Neurocomputing, 2020. [[Link]](https://doi.org/10.1016/j.neucom.2020.12.126), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Graph-based_Temporal_Action_Co-Localization_from_an_Untrimmed_Video.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2020Graph.txt)
+
 ##### \[35\] ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization
 Ziyi Liu, Le Wang, Qilin Zhang, Wei Tang, Junsong Yuan, Nanning Zheng, and Gang Hua, "ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization", 35th AAAI Conference on Artificial Intelligence (AAAI'2021), Virtual Conference, February 2-9, 2021. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Liu2021ACSNet.txt)
 
