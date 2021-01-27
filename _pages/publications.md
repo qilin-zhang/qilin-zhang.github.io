@@ -6,14 +6,15 @@ permalink: /publications/
 
 
 Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).   
-##### \[37\] Giant Panda Identification
-Le Wang, Rizhi Ding, Yuanhao Zhai, Qilin Zhang, Wei Tang, Nanning Zheng, and Gang Hua, "Giant Panda Identification", IEEE Transactions on Image Processing, 2021. 
 
-##### \[36\] Graph-based Temporal Action Co-Localization from an Untrimmed Video
-Le Wang, Changbo Zhai, Qilin Zhang, Wei Tang, Nanning Zheng, and Gang Hua, "Graph-based Temporal Action Co-Localization from an Untrimmed Video", Neurocomputing, 2020. [[Link]](https://doi.org/10.1016/j.neucom.2020.12.126), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Graph-based_Temporal_Action_Co-Localization_from_an_Untrimmed_Video.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2020Graph.txt)
-
-##### \[35\] ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization
+##### \[37\] ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization
 Ziyi Liu, Le Wang, Qilin Zhang, Wei Tang, Junsong Yuan, Nanning Zheng, and Gang Hua, "ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization", 35th AAAI Conference on Artificial Intelligence (AAAI'2021), Virtual Conference, February 2-9, 2021. [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Liu2021ACSNet.txt)
+
+##### \[36\] Giant Panda Identification
+Le Wang, Rizhi Ding, Yuanhao Zhai, Qilin Zhang, Wei Tang, Nanning Zheng, and Gang Hua, "Giant Panda Identification", IEEE Transactions on Image Processing, 2021. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Giant_Panda_Identification_TIP.pdf)
+
+##### \[35\] Graph-based Temporal Action Co-Localization from an Untrimmed Video
+Le Wang, Changbo Zhai, Qilin Zhang, Wei Tang, Nanning Zheng, and Gang Hua, "Graph-based Temporal Action Co-Localization from an Untrimmed Video", Neurocomputing, 2020. [[Link]](https://doi.org/10.1016/j.neucom.2020.12.126), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Graph-based_Temporal_Action_Co-Localization_from_an_Untrimmed_Video.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang2020Graph.txt)
 
 ##### \[34\] Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion
 Benyi Hu, Chi Zhang, Le Wang, Qilin Zhang, Yuehu Liu, "Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion", in Proc. 15th Asian Conference on Computer Vision (ACCV), Nov. 30-Dec. 4, 2020, Virtual Kyoto. [[CVF Link]](https://openaccess.thecvf.com/content/ACCV2020/html/Hu_Multi-label_X-ray_Imagery_Classification_via_Bottom-up_Attention_and_Meta_Fusion_ACCV_2020_paper.html), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Multi-label_X-ray_Imagery_Classification_via_Bottom-up_Attention_and_Meta_Fusion_ACCV2020.pdf?raw=true), [[Code]](https://github.com/hby96/SXMNet), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Hu2020Multi.txt)
