@@ -1,7 +1,7 @@
 ---
-title: Projects
+title: Patents
 subtitle: Qilin Zhang
-permalink: /projects/
+permalink: /patents/
 ---
 
 ##### AUTOMATIC LOCALIZATION GEOMETRY GENERATOR FOR STRIPE-SHAPED OBJECTS 
