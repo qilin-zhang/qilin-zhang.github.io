@@ -3,6 +3,7 @@ title: Qilin Zhang
 layout: single
 author_profile: true
 ---
+
 I am a passionate engineer and researcher in computer vision, machine learning, and multimedia signal processing. In 2020, I joined [ABB](https://en.wikipedia.org/wiki/ABB) - US Corporate Research Center (USCRC) in [Raleigh, North Carolina](https://en.wikipedia.org/wiki/Raleigh,_North_Carolina), as a Senior Research Scientist. Prior to that, I worked first as a Senior Research Engineer and later as a Lead Research Engineer for [HERE Technologies](https://en.wikipedia.org/wiki/Here_Technologies) in [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago), where I worked on deep neural network-based machine learning algorithm design and contributed to the computer vision-based road feature perception for autonomous driving. 
 
 Prior to that, I worked as a Ph.D. student/research assistant at Department of Computer Science of [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology), where I learned both traditional and deep learning-based computer vision. I was also fortunate to work as a summer R&D intern at [GE Global Research](https://en.wikipedia.org/wiki/GE_Global_Research) in 2015, and also as a research assistant at [University of Florida](https://en.wikipedia.org/wiki/University_of_Florida) before 2012. 
