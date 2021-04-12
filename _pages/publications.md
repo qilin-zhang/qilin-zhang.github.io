@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 
-Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).   
+Up-to-date list can also be found on my <a href="https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"><i class="fa fa-fw fa-google" aria-hidden="true"></i>Google Scholar</a>.
+ 
 
 ##### \[38\] Action Coherence Network for Weakly-Supervised Temporal Action Localization
 Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng and Gang Hua, "Action Coherence Network for Weakly-Supervised Temporal Action Localization", IEEE Transactions on Multimedia (T-MM), May 2021. <!---[[Link]](https://doi.org/XXXXX/TMM.2021.XXXX),-->[[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Action_Coherence_Network_for_Weakly-Supervised_Temporal_Action_Localization.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2021Action.txt)
@@ -125,6 +126,24 @@ Zhang, Qilin, Habti Abeida, Ming Xue, William Rowe, and Jian Li. "Fast implement
 Zhang, Qilin, Habti Abeida, Ming Xue, William Rowe, and Jian Li. "Fast implementation of sparse iterative covariance-based estimation for array processing." In Signals, Systems and Computers (ASILOMAR), 2011 Conference Record of the Forty Fifth Asilomar Conference on, pp. 2031-2035. IEEE, 2011. [[Link]](http://dx.doi.org/10.1109/ACSSC.2011.6190383), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Fast_Implementation_of_Sparse_Iterative_Covariance-Based_Estimation_for_Array_Processing.pdf?raw=true), [[BibTeX]](https://qilin-zhang.github.io/_pages/bibtexs/zhang2011fast.txt?raw=true), [[Code Zip]](https://qilin-zhang.github.io/_pages/zips/SPICE-GS-for-Vector-Sensors.zip?raw=true)
 
 
+
+
+
+<a href="https://www.linkedin.com/in/qzhang5" itemprop="sameAs">
+<i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn
+</a> <a href="https://qilin-zhang.github.io/publications/" itemprop="sameAs">
+<i class="fa fa-fw fa-home" aria-hidden="true"></i>Homepage
+</a> <a href="https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ">
+<i class="fa fa-fw fa-google" aria-hidden="true"></i>Google Scholar
+</a> <a href="https://orcid.org/0000-0002-7917-9749">
+<i class="fa fa-fw fa-id-badge" aria-hidden="true"></i>ORCID
+</a> <a href="https://publons.com/a/1348230">
+<i class="fa fa-fw fa-product-hunt" aria-hidden="true"></i>Publons
+</a> <a href="https://www.researchgate.net/profile/Qilin-Zhang-4">
+<i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i>ResearchGate
+</a> <a href="https://abb.academia.edu/QilinZhang/Papers">
+<i class="fa fa-fw fa-font" aria-hidden="true"></i>Academia.edu
+</a>
 
 
 
