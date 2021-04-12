@@ -260,19 +260,19 @@
         </li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-chain" ></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="fa fa-fw fa-chain"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> ORCID</a></li>
       {% endif %}
       {% if author.publons %}
-        <li><a href="{{ author.publons }}"><i class="fa fa-fw fa-chain"></i> Publons Profile</a></li>
+        <li><a href="{{ author.publons }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Publons Profile</a></li>
       {% endif %}
       {% if author.publons %}
-        <li><a href="{{ author.ResearchGate }}"><i class="fa fa-fw fa-chain"></i> ResearchGate</a></li>
+        <li><a href="{{ author.ResearchGate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.publons %}
-        <li><a href="{{ author.Academia }}"><i class="fa fa-fw fa-chain"></i> Academia.edu</a></li>
+        <li><a href="{{ author.Academia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Academia.edu</a></li>
       {% endif %}
       
       {% include author-profile-custom-links.html %}
