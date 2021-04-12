@@ -8,7 +8,7 @@ permalink: /publications/
 Up-to-date list can be found in my [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate).   
 
 ##### \[38\] Action Coherence Network for Weakly-Supervised Temporal Action Localization
-Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng and Gang Hua, "Action Coherence Network for Weakly-Supervised Temporal Action Localization", IEEE Transactions on Multimedia (T-MM), May 2021. <!---[[Link]](https://doi.org/XXXXX/TMM.2021.XXXX), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/XXXXXX.pdf), -->[[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2021Action.txt)
+Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng and Gang Hua, "Action Coherence Network for Weakly-Supervised Temporal Action Localization", IEEE Transactions on Multimedia (T-MM), May 2021. <!---[[Link]](https://doi.org/XXXXX/TMM.2021.XXXX),-->[[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Action_Coherence_Network_for_Weakly-Supervised_Temporal_Action_Localization.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2021Action.txt)
 
 
 ##### \[37\] ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization
