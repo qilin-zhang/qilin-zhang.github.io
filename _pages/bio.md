@@ -1,7 +1,7 @@
 ---
-title: Curriculum Vitae
+title: Short Biography
 subtitle: Qilin Zhang
-permalink: /cv/
+permalink: /bio/
 
 ---
 I am a passionate engineer and researcher in computer vision, machine learning, multimedia signal processing and robotics. In 2020, I joined ABB Corporate Research Center in Raleigh, North Carolina, as a Senior Research Scientist. Prior to that, I worked first as a Senior Research Engineer and later as a Lead Research Engineer for [HERE Technologies](https://www.here.com/) in Chicago, Illinois, in the Highly Automated Driving (HAD) team of the Automotive Division, where I contributed to the design and development of customized deep neural network based automated map building algorithms, to enable autonomous driving with super high definition 3D maps. 
