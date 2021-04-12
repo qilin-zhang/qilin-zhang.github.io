@@ -23,5 +23,5 @@ My complete publication list is on the [PUBLICATIONS](https://qilin-zhang.github
 
 
 **Disclaimer: \
-<sup>1,2</sup>All views, contents or opinions expressed here are solely my own and do not express the views or opinions of my employer. 
+All views, contents or opinions expressed here are solely my own and do not express the views or opinions of my employer. 
 Electronic papers shared on this website are for fast dissemination of research work. The copyrights of the papers belong to the corresponding publishers.**
