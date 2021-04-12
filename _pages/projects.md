@@ -9,7 +9,8 @@ Qilin Zhang, Xiang Ma, Xin Chen, Sanjay Sood, Mark Tabb and Chen Luo, "Automatic
 *Apparatus and methods are described for generating geometries for stripe-shaped objects. An image is identified that includes a roadway having one or more stripe-shaped objects. The stripe-shaped objects may include lane lines for road edges or lanes of the roadway. The stripe-shaped objects may include a barrier. At least one targeted region within the image is determined. The at least one targeted region is shaped to intersect the one or more stripe-shaped objects and includes a plurality of pixels. An image analysis is performed on the image to determine when the at least one target region includes a pixel in common with the one or more stripe-shaped objects. A geometry is constructed using the pixel in common. The geometry may be used to update a map or subsequently perform localization.*
 
 
-
+<br/><br/>
+<br/><br/>
 
 **Disclaimer: \
 All views, contents or opinions expressed here are solely my own and do not express the views or opinions of my employer. 
