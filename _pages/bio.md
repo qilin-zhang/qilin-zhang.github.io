@@ -26,8 +26,6 @@ Qilin Zhang (Member, IEEE) received the M.S. degree in Electrical and Computer E
 </a>
 
 
-<br/><br/>
-
 
 **Disclaimer: \
 All views, contents or opinions expressed here are solely my own and do not express the views or opinions of my employer. 
