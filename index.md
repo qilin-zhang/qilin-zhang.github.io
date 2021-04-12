@@ -17,6 +17,8 @@ My complete publication list is on the [PUBLICATIONS](https://qilin-zhang.github
 --->
 <a href="https://www.linkedin.com/in/qzhang5" itemprop="sameAs">
 <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn
+</a><a href="https://qilin-zhang.github.io/publications/" itemprop="sameAs">
+<i class="fa fa-fw fa-home" aria-hidden="true"></i> Homepage
 </a>
 
 
