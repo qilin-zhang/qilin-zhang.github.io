@@ -11,8 +11,9 @@ As a passionate engineer and researcher, I appreciate the opportunities to build
 
 My complete publication list is on the [PUBLICATIONS](https://qilin-zhang.github.io/publications/) tab.
 
-
-#[[LinkedIn]](https://www.linkedin.com/in/qzhang5/), [[Homepage]](https://qilin-zhang.github.io/publications/), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[ORCID]](https://orcid.org/0000-0002-7917-9749), [[Publons]](https://publons.com/a/1348230) 
+<!--
+[[LinkedIn]](https://www.linkedin.com/in/qzhang5/), [[Homepage]](https://qilin-zhang.github.io/publications/), [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate), [[ORCID]](https://orcid.org/0000-0002-7917-9749), [[Publons]](https://publons.com/a/1348230) 
+--->
 
 
 
