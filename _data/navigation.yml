@@ -2,7 +2,7 @@
 main:
   - title: "PUB" # "PUBLICATIONS" # too long to appear on mobile phone
     url: /publications/
-  - title: "PATENTS" #"PROJECTS"
+  - title: "®" #"PROJECTS"
     url: /patents/
   - title: "BIO" #"CURRICULUM VITAE"
     url: /bio/
