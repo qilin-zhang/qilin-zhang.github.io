@@ -1,4 +1,4 @@
-@ARTICLE{Wang2020ObjectCosegmentation,
+@article{Wang2020ObjectCosegmentation,
   author={Le Wang and Xin Lv and Qilin Zhang and Zhenxing Niu and Nanning Zheng and Gang Hua},
   journal={IEEE Transactions on Multimedia}, 
   title={Object Cosegmentation in Noisy Videos with Multilevel Hypergraph}, 
