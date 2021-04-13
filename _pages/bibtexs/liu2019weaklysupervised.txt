@@ -1,4 +1,4 @@
-@InProceedings{Liu_2019_ICCV,
+@inproceedings{liu2019weaklysupervised.txt,
 author = {Liu, Ziyi and Wang, Le and Zhang, Qilin and Gao, Zhanning and Niu, Zhenxing and Zheng, Nanning and Hua, Gang},
 title = {Weakly Supervised Temporal Action Localization Through Contrast Based Evaluation Networks},
 booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
