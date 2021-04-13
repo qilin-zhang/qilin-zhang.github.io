@@ -5,7 +5,6 @@ journal = {Sensors},
 volume = {18},
 year = {2018},
 number = {7},
-article number = {1979},
 url = {http://www.mdpi.com/1424-8220/18/7/1979},
 issn = {1424-8220},
 doi = {10.3390/s18071979}
