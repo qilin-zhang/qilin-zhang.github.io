@@ -13,7 +13,7 @@ title                    : "Qilin Zhang"
 title_separator          : "-"
 name                     : "Qilin Zhang"
 description              : "Qilin Zhang"
-url                      : "https://qilin-zhang.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://qilin-zhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "qilin-zhang/qilin-zhang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -85,8 +85,8 @@ analytics:
 author:
   name             : "Qilin Zhang, Ph.D."
   avatar           : "qz-photo.jpg"
-  bio              : "Senior Research Scientist, ABB Corporate Research Center" # "Lead Research Engineer, HERE Technologies"
-  location         : "Raleigh, North Carolina, USA" #"Chicago, Illinois, USA"
+  bio              : "Sr. Research Scientist, ABB Corporate Research Center" # 
+  location         : "Raleigh, NC" #"Chicago, Illinois, USA"
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
