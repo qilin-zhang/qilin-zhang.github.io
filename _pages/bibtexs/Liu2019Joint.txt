@@ -1,4 +1,4 @@
-@ARTICLE{Liu2019Joint, 
+@article{Liu2019Joint, 
 author={Ziyi Liu and Le Wang and Gang Hua and Qilin Zhang and Zhenxing Niu and Ying Wu and Nanning Zheng}, 
 journal={IEEE Transactions on Image Processing}, 
 title={Joint Video Object Discovery and Segmentation by Coupled Dynamic Markov Networks}, 
