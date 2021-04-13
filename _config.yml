@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qilin Zhang" # too long "Qilin Zhang’s Academic Personal Website" 
+title                    : "Qilin Zhang’s Academic Personal Website" # "Qilin Zhang" fixed too long tab name problem 
 title_separator          : "-"
 name                     : "Qilin Zhang"
 description              : "Academic Personal Website"
