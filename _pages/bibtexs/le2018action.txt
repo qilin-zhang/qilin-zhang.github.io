@@ -1,15 +1,12 @@
-@Article{le2018action,
-AUTHOR = {Wang, Le and Zang, Jinliang and Zhang, Qilin and Niu, Zhenxing and Hua, Gang and Zheng, Nanning},
-TITLE = {Action Recognition by an Attention-Aware Temporal Weighted Convolutional Neural Network},
-JOURNAL = {Sensors},
-VOLUME = {18},
-YEAR = {2018},
-NUMBER = {7},
-ARTICLE NUMBER = {1979},
-URL = {http://www.mdpi.com/1424-8220/18/7/1979},
-ISSN = {1424-8220},
-DOI = {10.3390/s18071979}
+@article{le2018action,
+author = {Wang, Le and Zang, Jinliang and Zhang, Qilin and Niu, Zhenxing and Hua, Gang and Zheng, Nanning},
+title = {Action Recognition by an Attention-Aware Temporal Weighted Convolutional Neural Network},
+journal = {Sensors},
+volume = {18},
+year = {2018},
+number = {7},
+article number = {1979},
+url = {http://www.mdpi.com/1424-8220/18/7/1979},
+issn = {1424-8220},
+doi = {10.3390/s18071979}
 }
-
-
-
