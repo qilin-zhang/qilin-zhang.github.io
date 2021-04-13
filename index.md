@@ -10,7 +10,7 @@ Prior to that, I worked as a Ph.D. student/research assistant at Department of C
 
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in  machine learning, including applications in computer vision, natural language processing and signal processing. 
 
-My complete publication list is on the [PUBLICATIONS](https://qilin-zhang.github.io/publications/) tab.
+My complete publication list is on the [PUB](https://qilin-zhang.github.io/publications/) tab.
 
 
 
