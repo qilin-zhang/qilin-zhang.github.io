@@ -34,6 +34,6 @@ My complete publication list is on the [PUBLICATIONS](https://qilin-zhang.github
 <br/><br/>
 
 
-**Disclaimer: \
-All views, contents or opinions expressed here are solely my own and do not express the views or opinions of my employer. 
-Electronic papers shared on this website are for fast dissemination of research work. The copyrights of the papers belong to the corresponding publishers.**
+> <sub>Disclaimer:<br>
+> All views, contents or opinions expressed here are solely my own and do not express the views or opinions of my employer. 
+> Electronic papers shared on this website are for fast dissemination of research work. The copyrights of the papers belong to the corresponding publishers.</sub>
