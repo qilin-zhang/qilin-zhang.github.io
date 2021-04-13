@@ -1,4 +1,4 @@
-@InProceedings{Hu2020Multi,
+@inproceedings{Hu2020Multi,
 author = {Hu, Benyi and Zhang, Chi and Wang, Le and Zhang, Qilin and Liu, Yuehu},
 title = {Multi-label X-ray Imagery Classification via Bottom-up Attention and Meta Fusion},
 booktitle = {15th Asian Conference on Computer Vision (ACCV)},
