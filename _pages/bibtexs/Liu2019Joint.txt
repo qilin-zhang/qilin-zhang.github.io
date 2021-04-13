@@ -8,4 +8,5 @@ number={12},
 pages={5840-5853}, 
 doi={10.1109/TIP.2018.2859622}, 
 ISSN={1057-7149}, 
-month={Dec},}
+month={Dec}
+}
