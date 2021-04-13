@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "PUBLICATIONS"
+  - title: "PUB" # "PUBLICATIONS" # too long to appear on mobile phone
     url: /publications/
   - title: "PATENTS" #"PROJECTS"
     url: /patents/
-  - title: "BIOGRAPHY" #"CURRICULUM VITAE"
+  - title: "BIO" #"CURRICULUM VITAE"
     url: /bio/
   - title: "CONTACT"
     url: /contact/
