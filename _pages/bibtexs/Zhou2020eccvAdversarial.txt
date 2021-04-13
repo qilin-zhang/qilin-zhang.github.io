@@ -1,4 +1,4 @@
-@InProceedings{Zhou2020eccvAdversarial,
+@inproceedings{Zhou2020eccvAdversarial,
 author = {Zhou, Mo and Niu, Zhenxing and Wang, Le and Zhang, Qilin and Hua, Gang},
 title = {Adversarial Ranking Attack and Defense},
 booktitle = {16th European Conference on Computer Vision (ECCV)},
