@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "BIOGRAPHY" #"CURRICULUM VITAE"
-    url: /bio/
   - title: "PUBLICATIONS"
     url: /publications/
   - title: "PATENTS" #"PROJECTS"
     url: /patents/
+  - title: "BIOGRAPHY" #"CURRICULUM VITAE"
+    url: /bio/
   - title: "CONTACT"
     url: /contact/
   # - title: "About"
