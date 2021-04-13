@@ -1,4 +1,4 @@
-@ARTICLE{Wang21Giant,
+@article{Wang21Giant,
   author={Le Wang and Rizhi Ding and Yuanhao Zhai and Qilin Zhang and Wei Tang and Nanning Zheng and Gang Hua},
   journal={IEEE Transactions on Image Processing}, 
   title={Giant Panda Identification}, 
