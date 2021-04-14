@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 ---
 
-Welcome to the academic personal website of __Qilin__ ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet):\[tɕʰǐ.lǐn\] or \[ch'i lin\]) __Zhang__ (IPA:\[ʈʂáŋ\] or \[chang\]). 
+Welcome to the academic personal website of __Qilin__ ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[tɕʰǐ.lǐn\] or \[ch'i lin\]) __Zhang__ (IPA: \[ʈʂáŋ\] or \[chang\]). 
 
 My complete publication list is on the [PUB](https://qilin-zhang.github.io/publications/) tab, with links to full-text preprint PDF, BibTex files, etc. I also have my patent applications and a short biography on the [®](https://qilin-zhang.github.io/patents/) and [BIO](https://qilin-zhang.github.io/bio/) tab, respectively. My office address and contacting email can be found on the [CONTACT](https://qilin-zhang.github.io/contact/) tab. 
 
