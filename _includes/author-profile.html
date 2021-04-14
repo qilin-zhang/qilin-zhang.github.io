@@ -100,6 +100,8 @@
         </li>
       {% endif %}
 
+      <li><a href="https://qilin-zhang.github.io/publications/" itemprop="sameAs"><i class="fa fa-fw fa-home" aria-hidden="true"></i> Home</a></li>
+      
       {% if author.linkedin %}
         <li>
           <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
@@ -259,20 +261,25 @@
           </a>
         </li>
       {% endif %}
+      
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}" itemprop="sameAs"><i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar</a></li>
       {% endif %}
+      
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="fa fa-fw fa-id-badge" aria-hidden="true"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}" itemprop="sameAs"><i class="fa fa-fw fa-id-badge" aria-hidden="true"></i> ORCID</a></li>
       {% endif %}
+      
       {% if author.publons %}
-        <li><a href="{{ author.publons }}"><i class="fa fa-fw fa-product-hunt" aria-hidden="true"></i> Publons Profile</a></li>
+        <li><a href="{{ author.publons }}" itemprop="sameAs"><i class="fa fa-fw fa-product-hunt" aria-hidden="true"></i> Publons</a></li>
       {% endif %}
-      {% if author.publons %}
-        <li><a href="{{ author.ResearchGate }}"><i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i> ResearchGate</a></li>
+      
+      {% if author.ResearchGate %}
+        <li><a href="{{ author.ResearchGate }}" itemprop="sameAs"><i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
-      {% if author.publons %}
-        <li><a href="{{ author.Academia }}"><i class="fa fa-fw fa-font" aria-hidden="true"></i> Academia.edu</a></li>
+      
+      {% if author.Academia %}
+        <li><a href="{{ author.Academia }}" itemprop="sameAs"><i class="fa fa-fw fa-font" aria-hidden="true"></i> Academia.edu</a></li>
       {% endif %}
       
       {% include author-profile-custom-links.html %}
