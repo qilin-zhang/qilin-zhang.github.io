@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "PUB" # "PUBLICATIONS" # too long to appear on mobile phone
+  - title: "<p3>📚<sub>🔍</sub></p3>" # "PUBLICATIONS" # too long to appear on mobile phone
     url: /publications/
-  - title: "®" #"PROJECTS"
+  - title: "<p3>📄<sub>💡</sub></p3>" #"PROJECTS"
     url: /patents/
-  - title: "BIO" #"CURRICULUM VITAE"
+  - title: "<p3>📰<sub>👤</sub></p3>" #"CURRICULUM VITAE"
     url: /bio/
-  - title: "CONTACT"
+  - title: "<p3>📧<sub>✉</sub></p3>" # "CONTACT"
     url: /contact/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
