@@ -3,40 +3,40 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    <li><a href="https://qilin-zhang.github.io/publications/"><i class="fa fa-fw fa-home" aria-hidden="true"></i> Homepage</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="https://qilin-zhang.github.io/publications/"><i class="fa fa-fw fa-home" aria-hidden="true"></i>Home</a></li>
     {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i>Twitter</a></li>
     {% endif %}
     {% if site.facebook.username %}
-      <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://www.facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i>Facebook</a></li>
     {% endif %}
     {% if site.author.gitlab %}
-      <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fa fa-fw fa-gitlab" aria-hidden="true"></i> Gitlab</a></li>
+      <li><a href="https://gitlab.com/{{ site.author.gitlab }}"><i class="fa fa-fw fa-gitlab" aria-hidden="true"></i>Gitlab</a></li>
     {% endif %}
     {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i>Bitbucket</a></li>
     {% endif %}
     {% if site.author.linkedin %}
-      <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
+      <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a></li>
     {% endif %}
     {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i>GitHub</a></li>
     {% endif %}
     {% if site.author.googlescholar %}
-      <li><a href="{{ site.author.googlescholar }}"><i class="fa fa-fw fa-google" aria-hidden="true"></i> Google Scholar</a></li>
+      <li><a href="{{ site.author.googlescholar }}"><i class="fa fa-fw fa-google" aria-hidden="true"></i>Scholar</a></li>
     {% endif %}
     {% if site.author.orcid %}
-      <li><a href="{{ site.author.orcid }}"><i class="fa fa-fw fa-id-badge" aria-hidden="true"></i> ORCID</a></li>
+      <li><a href="{{ site.author.orcid }}"><i class="fa fa-fw fa-id-badge" aria-hidden="true"></i>ORCID</a></li>
     {% endif %}
     {% if site.author.publons %}
-      <li><a href="{{ site.author.publons }}"><i class="fa fa-fw fa-product-hunt" aria-hidden="true"></i> Publons</a></li>
+      <li><a href="{{ site.author.publons }}"><i class="fa fa-fw fa-product-hunt" aria-hidden="true"></i>Publons</a></li>
     {% endif %}
     {% if site.author.ResearchGate %}
-      <li><a href="{{ site.author.ResearchGate }}"><i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i> ResearchGate</a></li>
+      <li><a href="{{ site.author.ResearchGate }}"><i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i>ResearchGate</a></li>
     {% endif %}
     {% if site.author.Academia %}
-      <li><a href="{{ site.author.Academia }}"><i class="fa fa-fw fa-font" aria-hidden="true"></i> Academia.edu</a></li>
+      <li><a href="{{ site.author.Academia }}"><i class="fa fa-fw fa-font" aria-hidden="true"></i>Academia.edu</a></li>
     {% endif %}
   </ul>
 </div>
