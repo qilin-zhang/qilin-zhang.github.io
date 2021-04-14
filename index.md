@@ -8,6 +8,6 @@ I am a passionate engineer and researcher in computer vision, machine learning, 
 
 Prior to that, I worked as a Ph.D. student/research assistant at Department of Computer Science of [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology), where I learned both traditional and [deep learning](https://en.wikipedia.org/wiki/Deep_learning)-based computer vision. I was also fortunate to work as a summer R&D intern at [GE Global Research](https://en.wikipedia.org/wiki/GE_Global_Research) in 2015, and also as a research assistant at [University of Florida](https://en.wikipedia.org/wiki/University_of_Florida) before 2012. 
 
-As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share the interests in  machine learning, including applications in computer vision, natural language processing and signal processing. 
+As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share my interests in  machine learning, including applications in computer vision, natural language processing and signal processing. Let us connect on <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>. 
 
 My complete publication list is on the [PUB](https://qilin-zhang.github.io/publications/) tab.
