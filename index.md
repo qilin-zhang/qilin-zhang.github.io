@@ -1,11 +1,8 @@
 ---
-title:  
+title: Welcome to the academic personal website of __Qilin__ ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[tɕʰǐ.lǐn\] or \[ch'i lin\]) __Zhang__ (IPA: \[ʈʂáŋ\] or \[chang\]).
 layout: single
 author_profile: true
 ---
-
-Welcome to the academic personal website of __Qilin__ ([IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet): \[tɕʰǐ.lǐn\] or \[ch'i lin\]) __Zhang__ (IPA: \[ʈʂáŋ\] or \[chang\]). 
-
 My complete publication list is on the [📚](https://qilin-zhang.github.io/publications/) tab, with links to full-text preprint PDF, BibTex files, etc. I also have my patent applications and a short biography on the [💡](https://qilin-zhang.github.io/patents/) and [👤](https://qilin-zhang.github.io/bio/) tab, respectively. My office address and contacting email can be found on the [📧](https://qilin-zhang.github.io/contact/) tab. 
 
 I am a passionate engineer and researcher in computer vision, machine learning, and multimedia signal processing. In 2020, I joined [ABB](https://en.wikipedia.org/wiki/ABB) - US Corporate Research Center (USCRC) in [Raleigh, North Carolina](https://en.wikipedia.org/wiki/Raleigh,_North_Carolina), as a Senior Research Scientist. Prior to that, I worked first as a Senior Research Engineer and later as a Lead Research Engineer for [HERE Technologies](https://en.wikipedia.org/wiki/Here_Technologies) in [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago), where I worked on [deep neural network](https://en.wikipedia.org/wiki/Artificial_neural_network)-based [machine learning](https://en.wikipedia.org/wiki/Machine_learning) algorithm design and contributed to the [computer vision](https://en.wikipedia.org/wiki/Computer_vision)-based road feature perception for [autonomous driving](https://en.wikipedia.org/wiki/Self-driving_car). 
