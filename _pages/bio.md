@@ -1,6 +1,6 @@
 ---
-title: Qilin Zhang's Short Biography
-subtitle: as appeared in some IEEE journal articles
+title: Short Biography
+subtitle: of Qilin Zhang, as appeared in some IEEE journal articles
 permalink: /bio/
 ---
 
