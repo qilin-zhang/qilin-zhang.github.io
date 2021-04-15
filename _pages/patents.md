@@ -1,6 +1,6 @@
 ---
-title: Patents
-subtitle: Qilin Zhang
+title: Qilin Zhang's Patents
+subtitle: with full-text PDF, BibTex 
 permalink: /patents/
 ---
 
