@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "computer vision, deep learning, neural network" # "Qilin Zhang" fixed too long tab name problem 
+title                    : "Qilin Zhang" # "Qilin Zhang" fixed too long tab name problem 
 title_separator          : "-"
 name                     : "Qilin Zhang"
-description              : "Personal Website"
+description              : "Sharing machine learning (deep learning / deep neural networks) research progress / publications / papers in computer vision / natural language processing"
 url                      : "https://qilin-zhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "qilin-zhang/qilin-zhang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
