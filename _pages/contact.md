@@ -4,7 +4,7 @@ subtitle:
 permalink: /contact/
 ---
 
-<br></br>
+<br>
 
 **Qilin Zhang, Ph.D.**   
 ABB, Inc - US Corporate Research Center (USCRC)  
