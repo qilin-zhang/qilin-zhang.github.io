@@ -1,6 +1,6 @@
 ---
-title: Qilin Zhang's Address and Email
-subtitle: 
+title: Address & Email
+subtitle: of Qilin Zhang
 permalink: /contact/
 ---
 
