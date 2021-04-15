@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Refereed Publications
 subtitle: by Qilin Zhang, with DOI, URL, full-text preprint PDF, BibTex
 permalink: /publications/
 ---
