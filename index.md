@@ -1,5 +1,5 @@
 ---
-title: Welcome to the academic personal website of Qilin Zhang. 
+title: Academic Personal Website 
 layout: single
 author_profile: true
 ---
