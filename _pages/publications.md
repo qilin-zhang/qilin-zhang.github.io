@@ -1,11 +1,11 @@
 ---
 title: Qilin Zhang's Complete Publication List
-subtitle: with full-text preprint PDF, BibTex files
+subtitle: with DOI, URL, full-text preprint PDF, BibTex
 permalink: /publications/
 ---
 
 
-Up-to-date list can also be found on my <a href="https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"><i class="fa fa-fw fa-google" aria-hidden="true"></i>Google Scholar</a>.
+Up-to-date list can also be found on my <a href="https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"><i class="fa fa-fw fa-google" aria-hidden="true"></i>Google Scholar</a>. Feel free to contact me via <a href="https://www.linkedin.com/in/qzhang5"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a> or [email](https://qilin-zhang.github.io/_pages/pngs/address.png) if you have questions or would like to share collaboration/career opportunities. 
  
 
 ##### \[38\] Action Coherence Network for Weakly-Supervised Temporal Action Localization
