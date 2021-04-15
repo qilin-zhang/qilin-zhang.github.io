@@ -1,6 +1,6 @@
 ---
-title: Qilin Zhang's Complete Publication List
-subtitle: with DOI, URL, full-text preprint PDF, BibTex
+title: Publications
+subtitle: by Qilin Zhang, with DOI, URL, full-text preprint PDF, BibTex
 permalink: /publications/
 ---
 
