@@ -3,8 +3,8 @@
   journal={IEEE Transactions on Multimedia}, 
   title={Action Coherence Network for Weakly-Supervised Temporal Action Localization}, 
   year={2021},
-  doi={},
+  doi={10.1109/TMM.2021.3073235},
   ISSN={},
   volume={},
-  month={May}
+  month={April}
   }
