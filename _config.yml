@@ -13,8 +13,8 @@ title                    : "Qilin Zhang" # "Qilin Zhang" fixed too long tab name
 title_separator          : "-"
 name                     : "Qilin Zhang"
 description              : "Sharing machine learning (deep learning / deep neural networks) research progress / publications / papers in computer vision / natural language processing"
-url                      : "https://qilin-zhang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://qilin-zhang.github.io" # "https://qzhang.org" the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "https://qzhang.org" # the subpath of your site, e.g. "/blog"
 repository               : "qilin-zhang/qilin-zhang.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/500x300.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
