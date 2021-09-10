@@ -1,0 +1,7 @@
+@inproceedings{zhou2021practical,
+author = {Zhou, Mo and Wang, Le and Niu, Zhenxing and Zhang, Qilin and Xu, Yinghui and Zheng, Nanning and Hua, Gang},
+title = {Practical Relative Order Attack in Deep Ranking},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2021}
+}
