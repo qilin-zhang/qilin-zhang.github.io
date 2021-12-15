@@ -86,7 +86,7 @@ author:
   name             : "Qilin Zhang, Ph.D."
   avatar           : "qz-photo.jpg"
   bio              : "Sr. Research Scientist, ABB Corporate Research Center" # 
-  location         : "Raleigh, NC" #"Chicago, Illinois, USA"
+  location         : "Menlo Park, CA" #"Raleigh, NC" #"Chicago, Illinois, USA"
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
