@@ -7,6 +7,9 @@ permalink: /publications/
 
 Up-to-date list can also be found on my <a href="https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"><i class="fa fa-fw fa-google" aria-hidden="true"></i>Google Scholar</a>. Feel free to contact me via <a href="https://www.linkedin.com/in/qzhang5"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a> or [email](https://qilin-zhang.github.io/_pages/pngs/address.png) if you have questions or would like to share collaboration/career opportunities. 
 
+##### \[41\] Adaptive Ladder Loss for Learning Coherent Visual-Semantic Embedding
+Le Wang, Mo Zhou, Zhenxing Niu, Qilin Zhang, and Nanning Zheng, "Adaptive Ladder Loss for Learning Coherent Visual-Semantic Embedding", IEEE Transactions on Multimedia (T-MM), December 2021. [[Link]](https://doi.org/10.1109/TMM.2021.3139210)
+
 ##### \[40\] Practical Relative Order Attack in Deep Ranking
 Mo Zhou, Le Wang, Zhenxing Niu, Qilin Zhang, Yinghui Xu, Nanning Zheng, and Gang Hua, "Practical Relative Order Attack in Deep Ranking", in Proc. IEEE International Conference on Computer Vision (ICCV 2021), Virtual, Oct. 11-17, 2021. [[arXiv]](https://arxiv.org/abs/2103.05248), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Practical_Relative_Order_Attack_in_Deep_Ranking.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/zhou2021practical.txt)
 
