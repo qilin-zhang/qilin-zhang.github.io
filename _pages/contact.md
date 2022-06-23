@@ -1,5 +1,5 @@
 ---
-title: Address & Email
+title: Email
 subtitle: of Qilin Zhang
 permalink: /contact/
 ---
