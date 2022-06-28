@@ -1,11 +1,17 @@
 ---
-title: Email
+title: Emails
 subtitle: of Qilin Zhang
 permalink: /contact/
 ---
 
 <br>
 
-**Qilin Zhang, Ph.D.**   
-<i class="fa fa-envelope"></i> ![email](https://qilin-zhang.github.io/_pages/pngs/address.png "gmail-contact")
+**Qilin Zhang, Ph.D.** 
 
+Personal Email (preferred):
+
+<i class="fa fa-envelope"></i> ![email](https://qilin-zhang.github.io/_pages/pngs/address.png "gmail-contact") 
+
+Work Email: 
+
+<i class="fa fa-envelope"></i> ![email](https://qilin-zhang.github.io/_pages/pngs/workEmail.png "Apple-mail-contact") 
