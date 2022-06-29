@@ -16,4 +16,4 @@ Prior to that, I worked as a Ph.D. student/research assistant at the Department 
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share similar research interests. Let us connect on <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>. 
 
 
-Qilin <audio ref='Qilin pronunciation audio' src="https://raw.githubusercontent.com/qilin-zhang/qilin-zhang.github.io/master/assets/qilin-clean.ogg" autoPlay loop></audio> Zhang <audio ref='Zhang pronunciation audio' src="https://raw.githubusercontent.com/qilin-zhang/qilin-zhang.github.io/master/assets/zhang-clean.ogg" autoPlay loop></audio>
+[Qilin](/assets/qilin-clean.ogg)
