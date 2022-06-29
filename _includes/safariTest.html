@@ -1,4 +1,7 @@
-
-<audio controls>
-  <source src="https://qilin-zhang.github.io/assets/qilin-clean.mp3" type="audio/mpeg"></source>
-</audio>
+<audio id="qilin-pronunciation" src="https://qilin-zhang.github.io/assets/qilin-clean.mp3" type="audio/mpeg"></audio><button onclick="playAudio('qilin-pronunciation')" type="button">🔊</button>
+<script>
+function playAudio(audio_element) {
+	var x = document.getElementById(audio_element);
+	x.play();
+}
+</script>
