@@ -6,7 +6,7 @@ permalink: /contact/
 
 <br>
 
-**Qilin{% include audio.html %} Zhang{% include zhangAudio.html %}, Ph.D.** 
+**Qilin [tʃi.lin{% include audio.html %}] Zhang [ʒæŋ{% include zhangAudio.html %}], Ph.D.** 
 
 Personal Email (preferred):
 
