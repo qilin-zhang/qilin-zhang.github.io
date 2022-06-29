@@ -14,4 +14,6 @@ In 2022, I joined [Apple](https://en.wikipedia.org/wiki/Apple_Inc.) in [Cupertin
 Prior to that, I worked as a Ph.D. student/research assistant at the Department of Computer Science of [Stevens Institute of Technology](https://en.wikipedia.org/wiki/Stevens_Institute_of_Technology). I was also fortunate to work as a summer R&D intern at [GE Global Research](https://en.wikipedia.org/wiki/GE_Global_Research) in 2015, and as a research assistant at [University of Florida](https://en.wikipedia.org/wiki/University_of_Florida) before 2012. 
 
 As a passionate engineer and researcher, I appreciate the opportunities to build a network with innovative individuals who share similar research interests. Let us connect on <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a>. 
- 
+
+
+Qilin <audio ref='Qilin pronunciation audio' src="https://raw.githubusercontent.com/qilin-zhang/qilin-zhang.github.io/master/assets/qilin-clean.ogg" autoPlay loop></audio> Zhang <audio ref='Zhang pronunciation audio' src="https://raw.githubusercontent.com/qilin-zhang/qilin-zhang.github.io/master/assets/zhang-clean.ogg" autoPlay loop></audio>
