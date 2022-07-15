@@ -1,10 +1,10 @@
 @article{Zhai2021Action,
-  author={Yuanhao Zhai and Le Wang and Wei Tang and Qilin Zhang and Nanning Zheng and Gang Hua},
+  author={Zhai, Yuanhao and Wang, Le and Tang, Wei and Zhang, Qilin and Zheng, Nanning and Hua, Gang},
   journal={IEEE Transactions on Multimedia}, 
   title={Action Coherence Network for Weakly-Supervised Temporal Action Localization}, 
-  year={2021},
-  doi={10.1109/TMM.2021.3073235},
-  ISSN={},
-  volume={},
-  month={April}
+  year={2022},
+  volume={24},
+  number={},
+  pages={1857-1870},
+  doi={10.1109/TMM.2021.3073235}
   }
