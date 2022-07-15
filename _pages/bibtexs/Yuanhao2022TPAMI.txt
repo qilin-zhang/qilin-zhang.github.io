@@ -1,0 +1,10 @@
+@article{Yuanhao2022TPAMI,
+  author={Zhai, Yuanhao and Wang, Le and Tang, Wei and Zhang, Qilin and Zheng, Nanning and Doermann, David and Yuan, Junsong and Hua, Gang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Adaptive Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-16},
+  doi={10.1109/TPAMI.2022.3189662}
+  }
