@@ -7,11 +7,14 @@ permalink: /publications/
 
 Up-to-date list can also be found on my <a href="https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"><i class="fa fa-fw fa-google" aria-hidden="true"></i>Google Scholar</a>. Feel free to contact me via <a href="https://www.linkedin.com/in/qzhang5"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a> or [email](https://qilin-zhang.github.io/_pages/pngs/address.png) if you have questions or would like to share collaboration/career opportunities. 
 
+##### \[42\] Adaptive Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization
+Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng, David Doermann, Junsong Yuan, and Gang Hua, "Adaptive Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization," in IEEE Transactions on Pattern Analysis and Machine Intelligence, (T-PAMI), 2022. [[Link]](https://doi.org/10.1109/TPAMI.2022.3189662), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/TPAMI2022-Yuanhao.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Yuanhao2022TPAMI.txt)
+
 ##### \[41\] Adaptive Ladder Loss for Learning Coherent Visual-Semantic Embedding
-Le Wang, Mo Zhou, Zhenxing Niu, Qilin Zhang, and Nanning Zheng, "Adaptive Ladder Loss for Learning Coherent Visual-Semantic Embedding", IEEE Transactions on Multimedia (T-MM), December 2021. [[Link]](https://doi.org/10.1109/TMM.2021.3139210)
+Le Wang, Mo Zhou, Zhenxing Niu, Qilin Zhang, and Nanning Zheng, "Adaptive Ladder Loss for Learning Coherent Visual-Semantic Embedding", IEEE Transactions on Multimedia (T-MM), December 2021. [[Link]](https://doi.org/10.1109/TMM.2021.3139210), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/le2021AdaptiveTMM.txt)
 
 ##### \[40\] Practical Relative Order Attack in Deep Ranking
-Mo Zhou, Le Wang, Zhenxing Niu, Qilin Zhang, Yinghui Xu, Nanning Zheng, and Gang Hua, "Practical Relative Order Attack in Deep Ranking", in Proc. IEEE International Conference on Computer Vision (ICCV 2021), Virtual, Oct. 11-17, 2021. [[arXiv]](https://arxiv.org/abs/2103.05248), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Practical_Relative_Order_Attack_in_Deep_Ranking.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/zhou2021practical.txt)
+Mo Zhou, Le Wang, Zhenxing Niu, Qilin Zhang, Yinghui Xu, Nanning Zheng, and Gang Hua, "Practical Relative Order Attack in Deep Ranking", in Proc. IEEE International Conference on Computer Vision (ICCV 2021), Virtual, Oct. 11-17, 2021. [[Link]](https://doi.org/10.1109/ICCV48922.2021.01610), [[arXiv]](https://arxiv.org/abs/2103.05248), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Practical_Relative_Order_Attack_in_Deep_Ranking.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/zhou2021practical.txt), [[Code]](https://github.com/cdluminate/advorder)
 
 
 ##### \[39\] Weakly Supervised Temporal Action Localization through Contrast based Evaluation Networks
@@ -19,11 +22,11 @@ Ziyi Liu, Le Wang, Qilin Zhang, Wei Tang, Nanning Zheng, and Gang Hua, "Weakly S
 
 
 ##### \[38\] Action Coherence Network for Weakly-Supervised Temporal Action Localization
-Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng and Gang Hua, "Action Coherence Network for Weakly-Supervised Temporal Action Localization", IEEE Transactions on Multimedia (T-MM), April 2021. [[Link]](https://doi.org/10.1109/TMM.2021.3073235), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Action_Coherence_Network_for_Weakly-Supervised_Temporal_Action_Localization.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2021Action.txt)
+Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng and Gang Hua, "Action Coherence Network for Weakly-Supervised Temporal Action Localization", IEEE Transactions on Multimedia (T-MM), Vol. 24, pp. 1857-1870, 2022. [[Link]](https://doi.org/10.1109/TMM.2021.3073235), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Action_Coherence_Network_for_Weakly-Supervised_Temporal_Action_Localization.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Zhai2021Action.txt)
 
 
 ##### \[37\] ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization
-Ziyi Liu, Le Wang, Qilin Zhang, Wei Tang, Junsong Yuan, Nanning Zheng, and Gang Hua, "ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization", 35th AAAI Conference on Artificial Intelligence (AAAI'2021), Virtual Conference, February 2-9, 2021. [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/ACSNet_Action-Context_Separation_Network_for_Weakly_Supervised_Temporal_Action_Localization-AAAI2021.pdf), [[arXiv]](https://arxiv.org/abs/2103.15088), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Liu2021ACSNet.txt)
+Ziyi Liu, Le Wang, Qilin Zhang, Wei Tang, Junsong Yuan, Nanning Zheng, and Gang Hua, "ACSNet: Action-Context Separation Network for Weakly Supervised Temporal Action Localization", 35th AAAI Conference on Artificial Intelligence (AAAI'2021), Virtual Conference, February 2-9, 2021. [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/16322), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/ACSNet_Action-Context_Separation_Network_for_Weakly_Supervised_Temporal_Action_Localization-AAAI2021.pdf), [[arXiv]](https://arxiv.org/abs/2103.15088), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Liu2021ACSNet.txt)
 
 ##### \[36\] Giant Panda Identification
 Le Wang, Rizhi Ding, Yuanhao Zhai, Qilin Zhang, Wei Tang, Nanning Zheng, and Gang Hua, "Giant Panda Identification", IEEE Transactions on Image Processing, February 2021. [[Link]](https://doi.org/10.1109/tip.2021.3055627), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/Giant_Panda_Identification_TIP.pdf), [[Dataset]](https://github.com/iPandaDateset/iPanda-50), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Wang21Giant.txt)
