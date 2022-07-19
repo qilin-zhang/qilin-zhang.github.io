@@ -15,3 +15,7 @@ Personal Email (preferred):
 Work Email: 
 
 <i class="fa fa-envelope"></i> ![email](https://qilin-zhang.github.io/_pages/pngs/workEmail.png "Apple-mail-contact") 
+
+Office Mailing Address:
+
+<i class="fa fa-envelope"></i> ![email](https://qilin-zhang.github.io/_pages/pngs/apple-address.png "office mailing address") 
