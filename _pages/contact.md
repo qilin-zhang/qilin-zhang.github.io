@@ -18,4 +18,8 @@ Work Email:
 
 Office Mailing Address:
 
-<i class="fa fa-envelope"></i> ![email](https://qilin-zhang.github.io/_pages/pngs/apple-address.png "office mailing address") 
+Qilin Zhang
+
+One Apple Park Way, <i class="fa fa-envelope"></i> ![email](https://qilin-zhang.github.io/_pages/pngs/apple-address.png "office mail stop")
+
+Cupertino, CA 95014, USA 
