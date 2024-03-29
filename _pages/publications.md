@@ -7,8 +7,11 @@ permalink: /publications/
 
 Up-to-date list can also be found on my <a href="https://scholar.google.com/citations?hl=en&user=q_dBKjoAAAAJ&view_op=list_works&sortby=pubdate"><i class="fa fa-fw fa-google" aria-hidden="true"></i>Google Scholar</a>. Feel free to contact me via <a href="https://www.linkedin.com/in/qzhang5"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i>LinkedIn</a> or [email](https://qilin-zhang.github.io/_pages/pngs/address.png) if you have questions or would like to share collaboration/career opportunities. 
 
+##### \[43\] Adversarial Attack and Defense in Deep Ranking 
+Mo Zhou, Le Wang, Zhenxing Niu, Qilin Zhang, Nanning Zheng and Gang Hua, "Adversarial Attack and Defense in Deep Ranking", in IEEE Transactions on Pattern Analysis and Machine Intelligence, (T-PAMI), February 2024. [[Link]](https://doi.org/10.1109/TPAMI.2024.3365699), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/ZhouMo2024TPAMI.txt)
+
 ##### \[42\] Adaptive Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization
-Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng, David Doermann, Junsong Yuan, and Gang Hua, "Adaptive Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization," in IEEE Transactions on Pattern Analysis and Machine Intelligence, (T-PAMI), 2022. [[Link]](https://doi.org/10.1109/TPAMI.2022.3189662), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/TPAMI2022-Yuanhao.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Yuanhao2022TPAMI.txt)
+Yuanhao Zhai, Le Wang, Wei Tang, Qilin Zhang, Nanning Zheng, David Doermann, Junsong Yuan, and Gang Hua, "Adaptive Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization", in IEEE Transactions on Pattern Analysis and Machine Intelligence, (T-PAMI), 2022. [[Link]](https://doi.org/10.1109/TPAMI.2022.3189662), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/TPAMI2022-Yuanhao.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/Yuanhao2022TPAMI.txt)
 
 ##### \[41\] Adaptive Ladder Loss for Learning Coherent Visual-Semantic Embedding
 Le Wang, Mo Zhou, Zhenxing Niu, Qilin Zhang, and Nanning Zheng, "Adaptive Ladder Loss for Learning Coherent Visual-Semantic Embedding", IEEE Transactions on Multimedia (T-MM), December 2021. [[Link]](https://doi.org/10.1109/TMM.2021.3139210), [[PDF]](https://qilin-zhang.github.io/_pages/pdfs/TMM2021-Adaptive.pdf), [[BibTex]](https://qilin-zhang.github.io/_pages/bibtexs/le2021AdaptiveTMM.txt)
