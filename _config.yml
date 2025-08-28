@@ -85,8 +85,8 @@ analytics:
 author:
   name             : "Qilin Zhang, Ph.D."
   avatar           : "qz-photo.jpg"
-  bio              : "Machine Learning Research Engineer in Computational Imaging, Apple" #  
-  location         : "Cupertino, CA, USA" #
+  bio              : "Research Scientist in Computational Imaging, DeepNight (YC W24)" #  
+  location         : "San Francisco, CA, USA" #
   email            : 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
